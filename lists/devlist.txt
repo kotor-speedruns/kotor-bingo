@@ -1,4 +1,4 @@
-var bingoListVersion = "6.0";
+var bingoListVersion = "6.01";
 var bingoList = [];
 
 bingoList[1] = [
@@ -79,7 +79,7 @@ bingoList[7] = [
   { name: "Help Three Taris Bounties Escape", types: ["Bounty", "Taris"] },
 ];
 bingoList[8] = [
-  { name: "Free Hudrow", types: ["Taris"] },
+  { name: "Free Hudrow", types: ["Taris", "Hudrow", "Prisoners"] },
   { name: "Clear the Hidden Bek Base", types: ["Clear", "Taris"] },
   { name: "Kill an Albino Kath Hound", types: ["Dantooine"] },
   { name: "Defeat Furko Nellis's Tournament Deck", types: ["Pazaak", "Tatooine"] },
@@ -103,6 +103,7 @@ bingoList[9] = [
 bingoList[10] = [
   { name: "Clear the Taris Sith Base", types: ["Clear", "Taris"] },
   { name: "Two Krayt Dragon Pearls", types: ["Tatooine", "Crystal"] },
+  { name: "Free 5 Prisoners", types: ["Prisoners"] },
   { name: "Redeem Ajunta Pall's Spirit", types: ["Korriban", "Tombs", "Redeem"] },
   { name: "8 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Return Sasha to Dantooine", types: ["Party", "Zaalbar"] },
@@ -141,7 +142,7 @@ bingoList[13] = [
   { name: "12 Permanent Points in All Saves", types: ["Character"] },
   { name: "All Three Force Immunity Feats", types: ["Character", "Immunity"] },  
   { name: "Both Holocrons", types: ["Tatooine","Korriban","Family"] },
-  { name: "Have Sunry Declared Innocent", types: ["Kashyyyk","Manaan","Murder","Party","Jolee"] },
+  { name: "Have Sunry Declared Innocent", types: ["Kashyyyk","Manaan","Murder","Party","Sunry","Jolee"] },
   { name: "Defeat Both Defense Droids", types: ["Kashyyyk"] }, 
 ];
 bingoList[14] = [
@@ -151,7 +152,7 @@ bingoList[14] = [
   { name: "Fully Upgraded Armor, Blaster, and Sword", types: ["Upgrade"] },
   { name: "Obtain 7 Complete Area Maps", types: ["Maps"] },
   { name: "Win All 8 Swoop Races", types: ["Swoops", "ManSwoops", "TatSwoops"] },
-  { name: "Kill Griff", types: ["Mission", "Tatooine", "Party", "Family"] },
+  { name: "Kill Griff", types: ["Mission", "Griff", "Tatooine", "Party", "Family"] },
   { name: "Recruit All Party Members", types: ["Party","Mission","Zaalbar","Juhani","Jolee","HK","T3"] },  
   { name: "Complete \"Jagi's Challenge\"", types: ["Party"] },
 ];
@@ -186,7 +187,7 @@ bingoList[17] = [
   { name: "All 5 Advanced Droid Weapons", types: ["Tombs"] },
   { name: "Zaalbar Wielding Bacca's Ceremonial Blade", types: ["Zaalbar","Kashyyyk","Chieftain"] },
   { name: "Raito's Gaderffii", types: ["Tatooine"] },
-  { name: "Give Griff a Tach Gland", types: ["Tatooine", "Mission"] },
+  { name: "Give Griff a Tach Gland", types: ["Tatooine", "Griff", "Mission"] },
 ];
 bingoList[18] = [
   { name: "Clear the Sand People Enclave", types: ["Tatooine", "Clear"] },  
@@ -213,7 +214,7 @@ bingoList[19] = [
 bingoList[20] = [
   { name: "13 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Kill 20 Mandalorians", types: ["Mandos"] },
-  { name: "Clear the Sith Academy", types: ["Korriban", "Clear"] },
+  { name: "Clear the Sith Academy", types: ["Korriban", "Academy", "Clear"] },
   { name: "Clear the Manaan Sith Base", types: ["Manaan", "Clear"] },
   { name: "Niklos Accuses You of Cheating", types: ["Pazaak"] },
   { name: "Ship Parts", types: ["StarMaps"] },
@@ -255,7 +256,7 @@ bingoList[23] = [
   { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
 ];
 bingoList[24] = [
-  { name: "All 23 Blaster Pistols", types: ["Credits", "Blasters"] },
+  { name: "Free 15 Prisoners", types: ["Academy", "Sunry", "Griff", "Hudrow", "Prisoners"] },
   { name: "Clear the Leviathan", types: ["Leviathan", "Clear"] }, 
   { name: "Defeat Every Pazaak Player Once", types: ["Pazaak"] },
   { name: "All 9 Verpine Equipments", types: ["Verpine", "Mika", "StarMaps", "Mandos"] },
