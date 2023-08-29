@@ -103,7 +103,7 @@ bingoList[9] = [
 bingoList[10] = [
   { name: "Clear the Taris Sith Base", types: ["Clear", "Taris"] },
   { name: "Two Krayt Dragon Pearls", types: ["Tatooine", "Crystal"] },
-  { name: "Free 5 Prisoners", types: ["Prisoners"] },
+  { name: "Free 4 Prisoners", types: ["Academy", "Sunry", "Griff", "Hudrow", "Prisoners"] },
   { name: "Redeem Ajunta Pall's Spirit", types: ["Korriban", "Tombs", "Redeem"] },
   { name: "8 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Return Sasha to Dantooine", types: ["Party", "Zaalbar"] },
@@ -163,6 +163,7 @@ bingoList[15] = [
   { name: "Complete \"Chieftain in Need\"", types: ["Kashyyyk", "Party", "Chieftain", "Strand"] },
   { name: "Complete \"Finding Dustil\"", types: ["Party"] },
   { name: "Talk to Yuthura on Dantooine", types: ["Korriban","Redeem"] }, 
+  { name: "Free 9 Prisoners", types: ["Academy", "Sunry", "Griff", "Hudrow", "Prisoners"] },
   { name: "Moisture Vaporators", types: ["Tatooine","HK"] },
   { name: "Kill 12 Mandalorians", types: ["Mandos"] },
   { name: "Maximum Permanent Immunities", types: ["Immunity"] },
