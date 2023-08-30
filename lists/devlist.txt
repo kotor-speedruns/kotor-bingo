@@ -28,6 +28,7 @@ bingoList[3] = [
   { name: "Talk to Samnt", types: ["Dantooine"] },
   { name: "Complete \"A Desert Ambush\"", types: ["Tatooine"] },
   { name: "20 Net Stealth Skill", types: ["Character"] },
+  { name: "All 3 Armor Proficiencies", types: ["Character"] },
   { name: "Obtain 4 Complete Area Maps", types: ["Maps"] },
   { name: "Kill the Lavin Thugs", types: ["Taris"] },
   { name: "Rubat Crystal", types: ["Crystal"] },
