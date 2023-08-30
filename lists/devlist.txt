@@ -7,10 +7,10 @@ bingoList[1] = [
   { name: "Rescue Tanis", types: ["Tatooine"] },
   { name: "Czerka Corp. Resource ID", types: ["Kashyyyk"] },
   { name: "Kill the Whimpering Locker", types: ["Manaan"] },
-  { name: "Implant Level 3", types: ["Character"] },
   { name: "Discover Zelka Forn's Secret", types: ["Taris"] },
   { name: "Defeat Deadeye Duncan", types: ["Taris", "Duel"] },
   { name: "Persuade a Prospective Sith to Leave", types: ["Korriban"] },
+  { name: "Complete \"A Desert Ambush\"", types: ["Tatooine"] },
 ];
 bingoList[2] = [
   { name: "Blow Up Matrik's Apartment", types: ["Taris", "Bounty"] },
@@ -26,9 +26,9 @@ bingoList[2] = [
 bingoList[3] = [
   { name: "Get Dia's Bounty Lifted", types: ["Taris","Bounty"] },
   { name: "Talk to Samnt", types: ["Dantooine"] },
-  { name: "Complete \"A Desert Ambush\"", types: ["Tatooine"] },
   { name: "20 Net Stealth Skill", types: ["Character"] },
-  { name: "All 3 Armor Proficiencies", types: ["Character"] },
+  { name: "All 3 Armor Proficiency Feats", types: ["Character"] },
+  { name: "All 3 Implant Feats", types: ["Character"] },
   { name: "Obtain 4 Complete Area Maps", types: ["Maps"] },
   { name: "Kill the Lavin Thugs", types: ["Taris"] },
   { name: "Rubat Crystal", types: ["Crystal"] },
