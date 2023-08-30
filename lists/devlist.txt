@@ -222,7 +222,7 @@ bingoList[19] = [
   { name: "Complete All 4 Minigame Quests", types: ["Duel", "Swoops", "Pazaak"] },
 ];
 bingoList[20] = [
-  { name: "13 Different Lightsaber Power Crystals", types: ["Crystal"] },
+  { name: "All 4 Disguises", types: ["Leviathan", "Disguise"] },
   { name: "Kill 20 Mandalorians", types: ["Mandos"] },
   { name: "Clear the Sith Academy", types: ["Korriban", "Academy", "Clear"] },
   { name: "Clear the Manaan Sith Base", types: ["Manaan", "Clear"] },
@@ -231,10 +231,10 @@ bingoList[20] = [
   { name: "All 5 Star Maps", types: ["StarMaps"] },
   { name: "Complete All 13 Korriban Quests", types: ["Korriban", "Quests"] },
   { name: "Clear the Prison Block with Party Member", types: ["Leviathan"] },
+  { name: "Kill Saul Karath", types: ["Bosses", "Leviathan"] },
 ];
 bingoList[21] = [
-  { name: "Kill Saul Karath", types: ["Bosses", "Leviathan"] },
-  { name: "All 4 Disguises", types: ["Leviathan", "Disguise"] },
+  { name: "13 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Complete All 4 Party Family Quests", types: ["Party", "Mission", "Zaalbar", "Family"] },
   { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },  
   { name: "Mantle of the Force", types: ["Credits", "StarMaps", "Thermals", "Colors"] },
@@ -242,6 +242,8 @@ bingoList[21] = [
   { name: "Kill The One", types: ["StarMaps", "Rancor"] },
   { name: "Kill Keeper Orsaa", types: ["StarMaps"] },
   { name: "All 10 Armbands", types: ["Armband", "Mika", "StarMaps"] },
+  { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
+  { name: "Verpine Zal Alloy Mesh", types: ["Mandos", "Verpine", "StarMaps"] },
 ];
 bingoList[22] = [
   { name: "Defeat Malak on the Leviathan", types: ["Leviathan"] },
@@ -249,10 +251,10 @@ bingoList[22] = [
   { name: "All 14 Medium Armors", types: ["Credits", "Mika"] },
   { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
   { name: "7 Different Lightsaber Colors", types: ["Colors", "Thermals", "Credits", "StarMaps"] },
-  { name: "Verpine Zal Alloy Mesh", types: ["Mandos", "Verpine", "StarMaps"] },
   { name: "Sith Power Gauntlets", types: ["Gloves", "StarMaps", "Thermals", "Verpine"] },
   { name: "Sapith and Upari Crystals", types: ["Crystal", "StarMaps", "Thermals", "Verpine"] },
   { name: "Kill Jolee and Juhani", types: ["StarMaps", "Dark"] },
+  { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
 ];
 bingoList[23] = [
   { name: "Obtain 10 Complete Area Maps", types: ["Maps"] },
@@ -263,11 +265,10 @@ bingoList[23] = [
   { name: "Complete All 18 Taris Quests", types: ["Bounty", "Duel", "TarQuest"] },
   { name: "Star Map: Kashyyyk as Revan", types: ["Kashyyyk", "StarMaps"] },
   { name: "All 6 Stealth Generators", types: ["Credits", "StarMaps", "Belts"] },
-  { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
-  { name: "7 Different Visors", types: ["Visors", "Geno"] },
+  { name: "Squad Recovery Stim", types: ["StarMaps", "Dark"] },
 ];
 bingoList[24] = [
-  { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
+  { name: "7 Different Visors", types: ["Visors", "Geno"] },
   { name: "Clear the Leviathan", types: ["Leviathan", "Clear"] }, 
   { name: "Defeat Every Pazaak Player Once", types: ["Pazaak"] },
   { name: "All 9 Verpine Equipments", types: ["Verpine", "Mika", "StarMaps", "Mandos"] },
