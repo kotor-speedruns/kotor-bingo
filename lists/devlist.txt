@@ -38,7 +38,7 @@ bingoList[4] = [
   { name: "Complete \"Pazaak Rules\"", types: ["Pazaak"] },
   { name: "Damind Crystal", types: ["Crystal"] },
   { name: "Convict Both Rickard and Handon", types: ["Dantooine","Murder"] },
-  { name: "Rescue the Mandalorian on Korriban", types: ["Korriban"] },
+  { name: "Free the Mandalorian on Korriban", types: ["Korriban", "SoloPrison"] },
   { name: "Defend the Sandcrawler Miners", types: ["Tatooine"] },
   { name: "Complete \"The Trouble with Gizka\"", types: [] },
   { name: "Escape the Mind Prison", types: ["Riddles"] },
@@ -79,7 +79,7 @@ bingoList[7] = [
   { name: "Help Three Taris Bounties Escape", types: ["Bounty", "Taris"] },
 ];
 bingoList[8] = [
-  { name: "Free Hudrow", types: ["Taris", "Hudrow", "Prisoners"] },
+  { name: "Free Hudrow", types: ["Taris", "SoloPrison"] },
   { name: "Clear the Hidden Bek Base", types: ["Clear", "Taris"] },
   { name: "Kill an Albino Kath Hound", types: ["Dantooine"] },
   { name: "Defeat Furko Nellis's Tournament Deck", types: ["Pazaak", "Tatooine"] },
@@ -103,7 +103,7 @@ bingoList[9] = [
 bingoList[10] = [
   { name: "Clear the Taris Sith Base", types: ["Clear", "Taris"] },
   { name: "Two Krayt Dragon Pearls", types: ["Tatooine", "Crystal"] },
-  { name: "Free 4 Prisoners", types: ["Academy", "Sunry", "Griff", "Hudrow", "Prisoners"] },
+  { name: "Free 5 Prisoners", types: ["Academy", "Prisoners", "SoloPrison"] },
   { name: "Redeem Ajunta Pall's Spirit", types: ["Korriban", "Tombs", "Redeem"] },
   { name: "8 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Return Sasha to Dantooine", types: ["Party", "Zaalbar"] },
@@ -162,8 +162,8 @@ bingoList[15] = [
   { name: "20 Completed Quests in Journal", types: ["Quests", "QuestNum"] },
   { name: "Complete \"Chieftain in Need\"", types: ["Kashyyyk", "Party", "Chieftain", "Strand"] },
   { name: "Complete \"Finding Dustil\"", types: ["Party"] },
-  { name: "Talk to Yuthura on Dantooine", types: ["Korriban","Redeem"] }, 
-  { name: "Free 9 Prisoners", types: ["Academy", "Sunry", "Griff", "Hudrow", "Prisoners"] },
+  { name: "Talk to Yuthura on Dantooine", types: ["Korriban", "Academy", "Redeem"] }, 
+  { name: "Free 10 Prisoners", types: ["Academy", "Prisoners"] },
   { name: "Moisture Vaporators", types: ["Tatooine","HK"] },
   { name: "Kill 12 Mandalorians", types: ["Mandos"] },
   { name: "Maximum Permanent Immunities", types: ["Immunity"] },
@@ -257,7 +257,7 @@ bingoList[23] = [
   { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
 ];
 bingoList[24] = [
-  { name: "Free 15 Prisoners", types: ["Academy", "Sunry", "Griff", "Hudrow", "Prisoners"] },
+  { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
   { name: "Clear the Leviathan", types: ["Leviathan", "Clear"] }, 
   { name: "Defeat Every Pazaak Player Once", types: ["Pazaak"] },
   { name: "All 9 Verpine Equipments", types: ["Verpine", "Mika", "StarMaps", "Mandos"] },
