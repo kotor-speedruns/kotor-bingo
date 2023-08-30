@@ -1,4 +1,4 @@
-var bingoListVersion = "6.03";
+var bingoListVersion = "6.04";
 var bingoList = [];
 
 bingoList[1] = [
@@ -39,6 +39,7 @@ bingoList[4] = [
   { name: "Damind Crystal", types: ["Crystal"] },
   { name: "Convict Both Rickard and Handon", types: ["Dantooine","Murder"] },
   { name: "Free the Mandalorian on Korriban", types: ["Korriban", "SoloPrison"] },
+  { name: "Rescue the Bullied Ithorian", types: ["Taris"] },
   { name: "Defend the Sandcrawler Miners", types: ["Tatooine"] },
   { name: "Complete \"The Trouble with Gizka\"", types: [] },
   { name: "Escape the Mind Prison", types: ["Riddles"] },
