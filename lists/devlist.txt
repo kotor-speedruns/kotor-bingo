@@ -39,7 +39,7 @@ bingoList[4] = [
   { name: "Damind Crystal", types: ["Crystal"] },
   { name: "Convict Both Rickard and Handon", types: ["Dantooine","Murder"] },
   { name: "Free the Mandalorian on Korriban", types: ["Korriban", "SoloPrison"] },
-  { name: "Rescue the Bullied Ithorian", types: ["Taris"] },
+  { name: "Heal the Bullied Ithorian", types: ["Taris"] },
   { name: "Defend the Sandcrawler Miners", types: ["Tatooine"] },
   { name: "Complete \"The Trouble with Gizka\"", types: [] },
   { name: "Escape the Mind Prison", types: ["Riddles"] },
