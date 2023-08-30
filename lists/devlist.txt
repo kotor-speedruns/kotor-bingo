@@ -1,4 +1,4 @@
-var bingoListVersion = "6.02";
+var bingoListVersion = "6.03";
 var bingoList = [];
 
 bingoList[1] = [
@@ -129,7 +129,7 @@ bingoList[12] = [
   { name: "10 Thermal Detonators", types: ["Thermals", "Mika", "Dark"] },
   { name: "GenoHaradan Power Gloves", types: ["Manaan", "Geno", "Gloves"] },  
   { name: "GenoHaradan Stealth Unit", types: ["Tatooine", "Geno", "Belts"] },
-  { name: "GenoHaradan Visor", types: ["Kashyyyk", "Geno"] },
+  { name: "GenoHaradan Visor", types: ["Kashyyyk", "Geno", "Visors"] },
   { name: "Two Bendak's Blasters", types: ["Taris", "Duel", "Bounty", "Blasters"] },
   { name: "Master Caution, Empathy, and Gear Head", types: ["Character"] },
   { name: "150 Permanent Maximum Force Points", types: ["Character", "FP"] },
