@@ -1,4 +1,4 @@
-var bingoListVersion = "6.06";
+var bingoListVersion = "6.07";
 var bingoList = [];
 
 bingoList[1] = [
@@ -61,6 +61,7 @@ bingoList[5] = [
   { name: "3 Different Visors", types: ["Visors"] },
 ];
 bingoList[6] = [
+  { name: "Disable the Steam Vents", types: ["Manaan"] },
   { name: "Complete \"Pazaak Rules\"", types: ["Pazaak"] },
   { name: "10,000 Credits", types: ["Credits"] },
   { name: "Complete \"Rakghoul Serum\"", types: ["Taris","TarQuest"] },  
@@ -75,7 +76,7 @@ bingoList[7] = [
   { name: "Davik's War Suit", types: ["Taris", "Visors", "Bosses"] },
   { name: "150 Racing Bonds", types: ["Tatooine", "Swoops", "TatSwoops"] },
   { name: "Complete \"Sandral-Matale Feud\"", types: ["Dantooine"] },
-  { name: "Give Motta the Mysterious Box", types: ["Riddles"] },
+  { name: "Echani Foil", types: ["Manaan"] },
   { name: "Jenruax Crystal", types: ["Crystal"] },
   { name: "Complete \"Honest Debt\"", types: ["Kashyyyk"] },
   { name: "Nextor Crystal", types: ["Crystal"] },
@@ -97,6 +98,7 @@ bingoList[8] = [
 ];
 bingoList[9] = [
   { name: "Clear the Endar Spire", types: ["Clear"] },
+  { name: "Give Motta the Mysterious Box", types: ["Riddles"] },
   { name: "Fully Upgraded Mission's Vibroblade", types: ["Mission", "Upgrade"] },
   { name: "Kill Kel Algwinn", types: ["Korriban"] }, 
   { name: "Light or Dark Side Mastery", types: ["Alignment", "Mastery", "FP"] },
