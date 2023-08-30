@@ -78,7 +78,7 @@ bingoList[7] = [
   { name: "Nextor Crystal", types: ["Crystal"] },
   { name: "Purchase a Store's Entire Inventory", types: ["Credits"] },
   { name: "Help Three Taris Bounties Escape", types: ["Bounty", "Taris"] },
-  { name: "3 Different Masks", types: ["Tombs", "Collect", "Masks"] },
+  { name: "3 Different Masks", types: ["Tombs", "Masks"] },
 ];
 bingoList[8] = [
   { name: "Free Hudrow", types: ["Taris", "SoloPrison"] },
@@ -182,7 +182,7 @@ bingoList[16] = [
   { name: "All 3 Great Hunt Journals", types: ["Hunt"] },
   { name: "Kill Four Terentateks", types: ["Hunt"] },
   { name: "All 4 Sith Lord Artifacts", types: ["Tombs", "Korriban", "AlignedItem"] },
-  { name: "5 Different Masks", types: ["Tombs", "Collect", "Masks"] },
+  { name: "5 Different Masks", types: ["Tombs", "Masks"] },
 ];
 bingoList[17] = [
   { name: "Clear the Hrakert Rift Station", types: ["Manaan", "Clear"] },
