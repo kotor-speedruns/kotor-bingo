@@ -155,6 +155,7 @@ bingoList[14] = [
   { name: "Kill Griff", types: ["Mission", "Griff", "Tatooine", "Party", "Family"] },
   { name: "Recruit All Party Members", types: ["Party","Mission","Zaalbar","Juhani","Jolee","HK","T3"] },  
   { name: "Complete \"Jagi's Challenge\"", types: ["Party"] },
+  { name: "Complete 5 Bounty Quests", types: ["Bounty", "QuestNum"] },
 ];
 bingoList[15] = [
   { name: "Complete All 5 Taris Bounty Quests", types: ["Taris", "Bounty"] },
@@ -182,6 +183,7 @@ bingoList[16] = [
 bingoList[17] = [
   { name: "Clear the Hrakert Rift Station", types: ["Manaan", "Clear"] },
   { name: "Complete All 3 Murder Quests", types: ["Murder", "Mastery"] },
+  { name: "Complete 8 Bounty Quests", types: ["Bounty", "QuestNum"] },
   { name: "180 Permanent Maximum Force Points", types: ["Character", "FP"] },
   { name: "Complete All 7 Manaan Quests", types: ["Manaan","Quests","ManSwoops"] },
   { name: "Complete \"Threat from Xor\"", types: ["Juhani", "Party"] },
