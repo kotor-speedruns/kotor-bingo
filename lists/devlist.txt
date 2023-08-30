@@ -1,4 +1,4 @@
-var bingoListVersion = "6.05";
+var bingoListVersion = "6.06";
 var bingoList = [];
 
 bingoList[1] = [
@@ -40,7 +40,7 @@ bingoList[4] = [
   { name: "Complete \"Pazaak Rules\"", types: ["Pazaak"] },
   { name: "Damind Crystal", types: ["Crystal"] },
   { name: "Convict Both Rickard and Handon", types: ["Dantooine","Murder"] },
-  { name: "Free the Mandalorian on Korriban", types: ["Korriban", "SoloPrison"] },
+  { name: "Free the Mandalorian on Korriban", types: ["Korriban", "Prisoners"] },
   { name: "Heal the Bullied Ithorian", types: ["Taris"] },
   { name: "Defend the Sandcrawler Miners", types: ["Tatooine"] },
   { name: "Complete \"The Trouble with Gizka\"", types: [] },
@@ -72,7 +72,7 @@ bingoList[6] = [
   { name: "Successfully Interrogate the Sith Prisoner", types: ["Manaan"] },
 ];
 bingoList[7] = [
-  { name: "Davik's War Suit", types: ["Taris","Bosses"] },
+  { name: "Davik's War Suit", types: ["Taris", "Visors", "Bosses"] },
   { name: "150 Racing Bonds", types: ["Tatooine", "Swoops", "TatSwoops"] },
   { name: "Complete \"Sandral-Matale Feud\"", types: ["Dantooine"] },
   { name: "Give Motta the Mysterious Box", types: ["Riddles"] },
@@ -84,7 +84,7 @@ bingoList[7] = [
   { name: "3 Different Masks", types: ["Tombs", "Masks"] },
 ];
 bingoList[8] = [
-  { name: "Free Hudrow", types: ["Taris", "SoloPrison"] },
+  { name: "Free Hudrow", types: ["Taris", "Prisoners"] },
   { name: "Clear the Hidden Bek Base", types: ["Clear", "Taris"] },
   { name: "Kill an Albino Kath Hound", types: ["Dantooine"] },
   { name: "Defeat Furko Nellis's Tournament Deck", types: ["Pazaak", "Tatooine"] },
@@ -108,7 +108,7 @@ bingoList[9] = [
 bingoList[10] = [
   { name: "Clear the Taris Sith Base", types: ["Clear", "Taris"] },
   { name: "Two Krayt Dragon Pearls", types: ["Tatooine", "Crystal"] },
-  { name: "Free 5 Prisoners", types: ["Academy", "Prisoners", "SoloPrison"] },
+  { name: "Free 5 Prisoners", types: ["Academy", "Prisoners"] },
   { name: "Redeem Ajunta Pall's Spirit", types: ["Korriban", "Tombs", "Redeem"] },
   { name: "8 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Return Sasha to Dantooine", types: ["Party", "Zaalbar"] },
@@ -161,7 +161,7 @@ bingoList[14] = [
   { name: "Kill Griff", types: ["Mission", "Griff", "Tatooine", "Party", "Family"] },
   { name: "Recruit All Party Members", types: ["Party","Mission","Zaalbar","Juhani","Jolee","HK","T3"] },  
   { name: "Complete \"Jagi's Challenge\"", types: ["Party"] },
-  { name: "Complete 5 Bounty Quests", types: ["Bounty", "QuestNum"] },
+  { name: "Complete 5 Bounty Quests", types: ["Bounty", "Geno", "QuestNum"] },
 ];
 bingoList[15] = [
   { name: "Complete All 5 Taris Bounty Quests", types: ["Taris", "Bounty"] },
@@ -190,7 +190,7 @@ bingoList[16] = [
 bingoList[17] = [
   { name: "Clear the Hrakert Rift Station", types: ["Manaan", "Clear"] },
   { name: "Complete All 3 Murder Quests", types: ["Murder", "Mastery"] },
-  { name: "Complete 8 Bounty Quests", types: ["Bounty", "QuestNum"] },
+  { name: "Complete 8 Bounty Quests", types: ["Bounty", "Geno", "QuestNum"] },
   { name: "180 Permanent Maximum Force Points", types: ["Character", "FP"] },
   { name: "Complete All 7 Manaan Quests", types: ["Manaan","Quests","ManSwoops"] },
   { name: "Complete \"Threat from Xor\"", types: ["Juhani", "Party"] },
