@@ -22,6 +22,7 @@ bingoList[2] = [
   { name: "Attend Yun Genda's Party", types: ["Disguise", "Taris", "TarQuest", "Gender"] },
   { name: "Kill Calo Nord", types: ["Bosses", "Heavy"] },
   { name: "Sith Medallion", types: ["Korriban"] },
+  { name: "All Skills are Class Skills", types: ["Character"] },
 ];
 bingoList[3] = [
   { name: "Get Dia's Bounty Lifted", types: ["Taris","Bounty"] },
