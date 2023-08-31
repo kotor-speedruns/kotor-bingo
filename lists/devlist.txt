@@ -11,6 +11,7 @@ bingoList[1] = [
   { name: "Defeat Deadeye Duncan", types: ["Taris", "Duel"] },
   { name: "Persuade a Prospective Sith to Leave", types: ["Korriban"] },
   { name: "Complete \"A Desert Ambush\"", types: ["Tatooine"] },
+  { name: "All Skills are Class Skills", types: ["Character"] },
 ];
 bingoList[2] = [
   { name: "Blow Up Matrik's Apartment", types: ["Taris", "Bounty"] },
@@ -22,19 +23,19 @@ bingoList[2] = [
   { name: "Attend Yun Genda's Party", types: ["Disguise", "Taris", "TarQuest", "Gender"] },
   { name: "Kill Calo Nord", types: ["Bosses", "Heavy"] },
   { name: "Sith Medallion", types: ["Korriban"] },
-  { name: "All Skills are Class Skills", types: ["Character"] },
+  { name: "Help with Lyn Sekla's Audition", types: ["Taris"] },
 ];
 bingoList[3] = [
   { name: "Get Dia's Bounty Lifted", types: ["Taris","Bounty"] },
   { name: "Talk to Samnt", types: ["Dantooine"] },
   { name: "20 Net Stealth Skill", types: ["Character"] },
-  { name: "All 3 Armor Proficiency Feats", types: ["Character"] },
-  { name: "All 3 Implant Feats", types: ["Character"] },
+  { name: "All 3 Armor Proficiency Feats", types: ["Character", "ArmorProf"] },
+  { name: "All 3 Implant Feats", types: ["Character", "Implant"] },
   { name: "Obtain 4 Complete Area Maps", types: ["Maps"] },
   { name: "Kill the Lavin Thugs", types: ["Taris"] },
   { name: "Rubat Crystal", types: ["Crystal"] },
   { name: "Poison Both Yuthura and Uthar", types: ["Korriban"] },
-  { name: "Help with Lyn Sekla's Audition", types: ["Taris"] },
+  { name: "Kill a Rancor", types: ["Rancor"] },  
 ];
 bingoList[4] = [
   { name: "Echani Dueling Shield", types: ["Armband"] },
@@ -46,7 +47,7 @@ bingoList[4] = [
   { name: "Complete \"The Trouble with Gizka\"", types: [] },
   { name: "Escape the Mind Prison", types: ["Riddles"] },
   { name: "Sith Armor", types: ["Taris", "Disguise"] },
-  { name: "Kill a Rancor", types: ["Taris", "Rancor"] },  
+  { name: "Win 4 Fighter Skirmishes", types: [] },
 ];
 bingoList[5] = [
   { name: "Kill a Shyrack Alpha", types: ["Korriban"] },  
@@ -57,15 +58,15 @@ bingoList[5] = [
   { name: "Recruit HK-47", types: ["Party", "Tatooine", "HK"] },  
   { name: "Improved Scoundrel's Luck", types: ["Character"] },
   { name: "Uncanny Dodge 2", types: ["Character"] },
-  { name: "Win 4 Fighter Skirmishes", types: [] },
   { name: "3 Different Visors", types: ["Visors"] },
+  { name: "10,000 Credits", types: ["Credits"] },
 ];
 bingoList[6] = [
-  { name: "Disable the Steam Vents", types: ["Manaan"] },
+  { name: "Deactivate the Steam Vents", types: ["Manaan"] },
   { name: "Complete \"Pazaak Rules\"", types: ["Pazaak"] },
-  { name: "10,000 Credits", types: ["Credits"] },
-  { name: "Complete \"Rakghoul Serum\"", types: ["Taris","TarQuest"] },  
   { name: "Become Sector Champion on Manaan", types: ["Manaan", "ManSwoops", "Swoops"] },
+  { name: "Passive Vitality Regeneration", types: ["Regen", "Implant"] },
+  { name: "Passive FP Regeneration", types: ["Regen", "Masks", "ArmorProf"] },
   { name: "Echani Foil", types: ["Manaan"] },
   { name: "Jenruax Crystal", types: ["Crystal"] },
   { name: "5 Different Lightsaber Colors", types: ["Colors"] },
@@ -73,6 +74,7 @@ bingoList[6] = [
   { name: "Successfully Interrogate the Sith Prisoner", types: ["Manaan"] },
 ];
 bingoList[7] = [
+  { name: "Complete \"Rakghoul Serum\"", types: ["Taris","TarQuest"] },  
   { name: "Davik's War Suit", types: ["Taris", "Visors", "Bosses"] },
   { name: "150 Racing Bonds", types: ["Tatooine", "Swoops", "TatSwoops"] },
   { name: "Complete \"Sandral-Matale Feud\"", types: ["Dantooine"] },
@@ -81,17 +83,16 @@ bingoList[7] = [
   { name: "Complete \"Honest Debt\"", types: ["Kashyyyk"] },
   { name: "Nextor Crystal", types: ["Crystal"] },
   { name: "Purchase a Store's Entire Inventory", types: ["Credits"] },
-  { name: "Help Three Taris Bounties Escape", types: ["Bounty", "Taris"] },
   { name: "3 Different Masks", types: ["Tombs", "Masks"] },
 ];
 bingoList[8] = [
   { name: "Free Hudrow", types: ["Taris", "Prisoners"] },
   { name: "Clear the Hidden Bek Base", types: ["Clear", "Taris"] },
   { name: "Kill an Albino Kath Hound", types: ["Dantooine"] },
+  { name: "Help Three Taris Bounties Escape", types: ["Bounty", "Taris"] },
   { name: "All 18 Pazaak Sidedeck Cards", types: ["Pazaak"] }, 
   { name: "Eralam Crystal", types: ["Crystal"] },
   { name: "Solari Crystal", types: ["Crystal", "Korriban", "Hunt", "AlignedItem"] },
-  { name: "Fully Repair HK-47", types: ["Party", "HK"] },
   { name: "Kill Darth Bandon", types: ["Bosses"] },  
   { name: "Carbonite Projector Mark II", types: ["Korriban", "Tombs"] },
   { name: "Firkrann Crystal", types: ["Crystal","Korriban"] },
@@ -116,6 +117,7 @@ bingoList[10] = [
   { name: "8 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Return Sasha to Dantooine", types: ["Party", "Zaalbar"] },
   { name: "Kiss Bastila", types: ["Party", "Gender"] },
+  { name: "Fully Repair HK-47", types: ["Party", "HK"] },
   { name: "Strand Zaalbar on Kashyyyk", types: ["Kashyyyk","Zaalbar","Party","Strand"] },
   { name: "A Droid with Upgrade Class 3", types: ["Character", "HK", "T3", "Party"] },
 ];
@@ -141,6 +143,7 @@ bingoList[12] = [
   { name: "150 Permanent Maximum Force Points", types: ["Character", "FP"] },
   { name: "Circlet of Saresh", types: ["Kashyyyk","Hunt","AlignedItem"] },
   { name: "Naga Sadow's Poison Blade", types: ["Korriban","Tombs"] },
+  { name: "Passive Vitality and FP Regeneration", types: ["Masks", "Regen", "Implant", "ArmorProf"] },
 ];
 bingoList[13] = [
   { name: "Complete \"The Promised Land\"", types: ["Taris","TarQuest"] },
@@ -240,7 +243,7 @@ bingoList[21] = [
   { name: "13 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Complete All 4 Party Family Quests", types: ["Party", "Mission", "Zaalbar", "Family"] },
   { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },  
-  { name: "Mantle of the Force", types: ["Credits", "StarMaps", "Thermals", "Colors"] },
+  { name: "Mantle of the Force", types: ["Credits", "StarMaps", "Thermals", "Colors", "Regen"] },
   { name: "Dominator Gauntlets", types: ["Credits", "Mika", "Gloves", "StarMaps"] },
   { name: "Kill The One", types: ["StarMaps", "Rancor"] },
   { name: "Kill Keeper Orsaa", types: ["StarMaps"] },
@@ -258,6 +261,7 @@ bingoList[22] = [
   { name: "Sapith and Upari Crystals", types: ["Crystal", "StarMaps", "Thermals", "Verpine"] },
   { name: "Kill Jolee and Juhani", types: ["StarMaps", "Dark"] },
   { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
+  { name: "Maximum Passive FP Regeneration", types: ["Regen", "Colors", "Credits", "StarMaps", "Thermals"] },
 ];
 bingoList[23] = [
   { name: "Obtain 10 Complete Area Maps", types: ["Maps"] },
