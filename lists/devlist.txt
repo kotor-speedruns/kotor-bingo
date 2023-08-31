@@ -66,7 +66,7 @@ bingoList[6] = [
   { name: "Complete \"Pazaak Rules\"", types: ["Pazaak"] },
   { name: "Become Sector Champion on Manaan", types: ["Manaan", "ManSwoops", "Swoops"] },
   { name: "Passive Vitality Regeneration", types: ["Regen", "Implant"] },
-  { name: "Passive FP Regeneration", types: ["Regen", "Masks", "ArmorProf"] },
+  { name: "Passive Force Point Regeneration", types: ["Regen", "Masks", "ArmorProf"] },
   { name: "Echani Foil", types: ["Manaan"] },
   { name: "Jenruax Crystal", types: ["Crystal"] },
   { name: "5 Different Lightsaber Colors", types: ["Colors"] },
@@ -143,7 +143,7 @@ bingoList[12] = [
   { name: "150 Permanent Maximum Force Points", types: ["Character", "FP"] },
   { name: "Circlet of Saresh", types: ["Kashyyyk","Hunt","AlignedItem"] },
   { name: "Naga Sadow's Poison Blade", types: ["Korriban","Tombs"] },
-  { name: "Passive Vitality and FP Regeneration", types: ["Masks", "Regen", "Implant", "ArmorProf"] },
+  { name: "Passive Vitality and Force Point Regeneration", types: ["Masks", "Regen", "Implant", "ArmorProf"] },
 ];
 bingoList[13] = [
   { name: "Complete \"The Promised Land\"", types: ["Taris","TarQuest"] },
@@ -261,7 +261,7 @@ bingoList[22] = [
   { name: "Sapith and Upari Crystals", types: ["Crystal", "StarMaps", "Thermals", "Verpine"] },
   { name: "Kill Jolee and Juhani", types: ["StarMaps", "Dark"] },
   { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
-  { name: "Maximum Passive FP Regeneration", types: ["Regen", "Colors", "Credits", "StarMaps", "Thermals"] },
+  { name: "Maximum Passive Force Point Regeneration", types: ["Regen", "Colors", "Credits", "StarMaps", "Thermals"] },
 ];
 bingoList[23] = [
   { name: "Obtain 10 Complete Area Maps", types: ["Maps"] },
