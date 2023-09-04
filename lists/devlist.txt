@@ -243,7 +243,7 @@ bingoList[21] = [
   { name: "13 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Complete All 4 Party Family Quests", types: ["Party", "Mission", "Zaalbar", "Family"] },
   { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },  
-  { name: "Mantle of the Force", types: ["Credits", "StarMaps", "Thermals", "Colors", "Regen"] },
+  { name: "Heart of the Guardian", types: ["Credits", "StarMaps", "Thermals", "Colors"] },
   { name: "Dominator Gauntlets", types: ["Credits", "Mika", "Gloves", "StarMaps"] },
   { name: "Kill The One", types: ["StarMaps", "Rancor"] },
   { name: "Kill Keeper Orsaa", types: ["StarMaps"] },
