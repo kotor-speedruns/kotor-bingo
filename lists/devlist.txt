@@ -1,4 +1,4 @@
-var bingoListVersion = "6.12";
+var bingoListVersion = "6.13";
 var bingoList = [];
 
 bingoList[1] = [
@@ -263,7 +263,7 @@ bingoList[22] = [
   { name: "Sapith and Upari Crystals", types: ["Crystal", "StarMaps", "Thermals", "Verpine"] },
   { name: "Kill Jolee and Juhani", types: ["StarMaps", "Dark"] },
   { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
-  { name: "Complete \"Rakatan Research\"", types: ["StarMaps", "Thermals"] },
+  { name: "Star Map: Kashyyyk as Revan", types: ["Kashyyyk", "StarMaps"] },
 ];
 bingoList[23] = [
   { name: "All 14 Light Armors", types: ["Credits", "Geno"] },
@@ -271,21 +271,22 @@ bingoList[23] = [
   { name: "Clear a Rakatan Settlement", types: ["Clear", "StarMaps"] },
   { name: "Kill 25 Mandalorians", types: ["Mandos", "StarMaps", "Verpine"] },
   { name: "Complete All 18 Taris Quests", types: ["Bounty", "Duel", "TarQuest"] },
-  { name: "Star Map: Kashyyyk as Revan", types: ["Kashyyyk", "StarMaps"] },
+  { name: "Complete \"Rakatan Research\"", types: ["StarMaps", "Thermals"] },
   { name: "All 6 Stealth Generators", types: ["Credits", "StarMaps", "Belts"] },
   { name: "Squad Recovery Stim", types: ["StarMaps", "Dark"] },
-  { name: "Defeat Every Pazaak Player Once", types: ["Pazaak"] },
+  { name: "Kill Four Party Members", types: ["Belaya", "Zaalbar", "Mission", "Dark", "StarMaps"] },
+  { name: "Force Zaalbar to Kill Mission", types: ["Zaalbar", "Mission", "Dark", "StarMaps"] },
 ];
 bingoList[24] = [
   { name: "7 Different Visors", types: ["Visors", "Geno"] },
-  { name: "Clear the Leviathan", types: ["Leviathan", "Clear"] }, 
-  { name: "Complete \"Canderous\"", types: ["Party", "Canderous"] },
   { name: "All 9 Verpine Equipments", types: ["Verpine", "Mika", "StarMaps", "Mandos"] },
-  { name: "Darth Revan's Robes", types: ["AlignedItem", "StarMaps", "Dark"] },
-  { name: "Star Forge Robes", types: ["AlignedItem", "StarMaps"] },
-  { name: "40 Completed Quests in Journal", types: ["Quests", "QuestNum"] },
+  { name: "Defeat Every Pazaak Player Once", types: ["Pazaak"] },
+  { name: "Complete \"Canderous\"", types: ["Party", "Canderous"] },
+  { name: "Romance Juhani", types: ["Party", "StarMaps", "Gender", "Juhani", "Belaya"] },
   { name: "Romance Carth", types: ["Party", "StarMaps", "Leviathan", "Gender"] },
   { name: "Kill Bastila", types: ["StarMaps"] },
+  { name: "Darth Revan's Robes", types: ["AlignedItem", "StarMaps", "Dark"] },
+  { name: "Star Forge Robes", types: ["AlignedItem", "StarMaps"] },
   { name: "Create Any Type of Forge Droid", types: ["StarMaps"] },
 ];
 bingoList[25] = [
@@ -295,8 +296,8 @@ bingoList[25] = [
   { name: "All 10 Heavy Armors", types: ["StarMaps", "Heavy", "Mika", "Credits"] },
   { name: "All 12 Gloves", types: ["Gloves", "Mika", "StarMaps", "Thermals", "Verpine"] },
   { name: "Clear the Rakatan Temple", types: ["Clear", "Dark", "Verpine", "StarMaps"] },
-  { name: "Kill Four Party Members", types: ["Belaya", "Zaalbar", "Mission", "Dark", "StarMaps"] },
-  { name: "Force Zaalbar to Kill Mission", types: ["Zaalbar", "Mission", "Dark", "StarMaps"] },
+  { name: "40 Completed Quests in Journal", types: ["Quests", "QuestNum"] },
+  { name: "Clear the Leviathan", types: ["Leviathan", "Clear"] }, 
   { name: "Redeem 6 Sith to the Light", types: ["Redeem", "StarMaps"] },
   { name: "Kill Darth Malak", types: ["StarMaps"] },
 ];
