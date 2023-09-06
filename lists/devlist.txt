@@ -1,4 +1,4 @@
-var bingoListVersion = "6.09";
+var bingoListVersion = "6.10";
 var bingoList = [];
 
 bingoList[1] = [
@@ -210,6 +210,7 @@ bingoList[18] = [
   { name: "Luxum Crystal", types: ["Crystal", "Manaan", "Robes"] },
   { name: "Complete All 7 Kashyyyk Quests", types: ["Kashyyyk", "Quests", "Strand", "Mastery"] },
   { name: "16 Permanent Points in All Saves", types: ["Character"] },
+  { name: "12 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Redeem 4 Sith to the Light", types: ["Korriban", "Tombs", "Redeem"] },
   { name: "30 Completed Quests in Journal", types: ["QuestNum", "Quests"] },
   { name: "Kill Hulas", types: ["Geno"] },
@@ -226,36 +227,35 @@ bingoList[19] = [
   { name: "Complete All 11 Tatooine Quests", types: ["Tatooine", "Quests", "TatSwoops"] },
   { name: "10 Prestige Points", types: ["Korriban"] },
   { name: "Complete All 4 Minigame Quests", types: ["Duel", "Swoops", "Pazaak"] },
+  { name: "Complete All 4 Party Family Quests", types: ["Party", "Mission", "Zaalbar", "Family"] },
 ];
 bingoList[20] = [
-  { name: "All 4 Disguises", types: ["Leviathan", "Disguise"] },
   { name: "Kill 20 Mandalorians", types: ["Mandos"] },
   { name: "Clear the Sith Academy", types: ["Korriban", "Academy", "Clear"] },
   { name: "Clear the Manaan Sith Base", types: ["Manaan", "Clear"] },
   { name: "Niklos Accuses You of Cheating", types: ["Pazaak"] },
-  { name: "Ship Parts", types: ["StarMaps"] },
   { name: "All 5 Star Maps", types: ["StarMaps"] },
   { name: "Complete All 13 Korriban Quests", types: ["Korriban", "Quests"] },
   { name: "Clear the Prison Block with Party Member", types: ["Leviathan"] },
   { name: "Kill Saul Karath", types: ["Bosses", "Leviathan"] },
+  { name: "All 4 Disguises", types: ["Leviathan", "Disguise"] },
 ];
 bingoList[21] = [
-  { name: "13 Different Lightsaber Power Crystals", types: ["Crystal"] },
-  { name: "Complete All 4 Party Family Quests", types: ["Party", "Mission", "Zaalbar", "Family"] },
-  { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },  
-  { name: "Heart of the Guardian", types: ["Credits", "StarMaps", "Thermals", "Colors"] },
-  { name: "Dominator Gauntlets", types: ["Credits", "Mika", "Gloves", "StarMaps"] },
-  { name: "Kill The One", types: ["StarMaps", "Rancor"] },
-  { name: "Kill Keeper Orsaa", types: ["StarMaps"] },
-  { name: "All 10 Armbands", types: ["Armband", "Mika", "StarMaps"] },
-  { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
-  { name: "Verpine Zal Alloy Mesh", types: ["Mandos", "Verpine", "StarMaps"] },
-];
-bingoList[22] = [
   { name: "Defeat Malak on the Leviathan", types: ["Leviathan"] },
   { name: "Kill Calo, Davik, Bandon, and Saul", types: ["Leviathan", "Bosses"] },
-  { name: "All 14 Medium Armors", types: ["Credits", "Mika"] },
+  { name: "Heart of the Guardian", types: ["Credits", "StarMaps", "Thermals", "Colors"] },
+  { name: "Adrenaline Stimulator", types: ["Credits", "Mika", "StarMaps"] },
+  { name: "Ship Parts", types: ["StarMaps", "Rancor"] },
+  { name: "Kill The One", types: ["StarMaps", "Rancor"] },
+  { name: "Kill Keeper Orsaa", types: ["StarMaps", "Rancor"] },
   { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
+  { name: "Verpine Zal Alloy Mesh", types: ["Mandos", "Verpine", "StarMaps"] },
+  { name: "All 10 Armbands", types: ["Armband", "Mika", "StarMaps"] },
+];
+bingoList[22] = [
+  { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },  
+  { name: "All 14 Medium Armors", types: ["Credits", "Mika"] },
+  { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
   { name: "7 Different Lightsaber Colors", types: ["Colors", "Thermals", "Credits", "StarMaps"] },
   { name: "Sith Power Gauntlets", types: ["Gloves", "StarMaps", "Thermals", "Verpine"] },
   { name: "Sapith and Upari Crystals", types: ["Crystal", "StarMaps", "Thermals", "Verpine"] },
@@ -284,6 +284,7 @@ bingoList[24] = [
   { name: "40 Completed Quests in Journal", types: ["Quests", "QuestNum"] },
   { name: "Romance Carth", types: ["Party", "StarMaps", "Leviathan", "Gender"] },
   { name: "Kill Bastila", types: ["StarMaps"] },
+  { name: "Create Any Type of Forge Droid", types: ["StarMaps"] },
 ];
 bingoList[25] = [
   { name: "Get Suvam Tam's Pazaak Discount", types: ["Pazaak"] }, 
@@ -295,6 +296,7 @@ bingoList[25] = [
   { name: "Kill Four Party Members", types: ["Belaya", "Zaalbar", "Mission", "Dark", "StarMaps"] },
   { name: "Force Zaalbar to Kill Mission", types: ["Zaalbar", "Mission", "Dark", "StarMaps"] },
   { name: "Redeem 6 Sith to the Light", types: ["Redeem", "StarMaps"] },
+  { name: "Kill Darth Malak", types: ["StarMaps"] },
 ];
 
 $(function () { bingo(bingoList, 5, bingoListVersion); });
