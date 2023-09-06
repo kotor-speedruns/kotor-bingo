@@ -1,4 +1,4 @@
-var bingoListVersion = "6.11";
+var bingoListVersion = "6.12";
 var bingoList = [];
 
 bingoList[1] = [
@@ -138,7 +138,7 @@ bingoList[12] = [
   { name: "GenoHaradan Power Gloves", types: ["Manaan", "Geno", "Gloves"] },  
   { name: "GenoHaradan Stealth Unit", types: ["Tatooine", "Geno", "Belts"] },
   { name: "GenoHaradan Visor", types: ["Kashyyyk", "Geno", "Visors"] },
-  { name: "Two Bendak's Blasters", types: ["Taris", "Duel", "Bounty", "Blasters"] },
+  { name: "Fully Upgraded Bendak's Blaster", types: ["Taris", "Duel", "Bounty", "Upgrade"] },
   { name: "Master Caution, Empathy, and Gear Head", types: ["Character"] },
   { name: "150 Permanent Maximum Force Points", types: ["Character", "FP"] },
   { name: "Circlet of Saresh", types: ["Kashyyyk","Hunt","AlignedItem"] },
@@ -251,22 +251,23 @@ bingoList[21] = [
   { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
   { name: "Verpine Zal Alloy Mesh", types: ["Mandos", "Verpine", "StarMaps"] },
   { name: "All 10 Armbands", types: ["Armband", "Mika", "StarMaps"] },
+  { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
 ];
 bingoList[22] = [
   { name: "Obtain 10 Complete Area Maps", types: ["Maps"] },
   { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },  
   { name: "All 14 Medium Armors", types: ["Credits", "Mika"] },
-  { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
+  { name: "Fully Upgraded Rakatan Battle Wand", types: ["Upgrade", "StarMaps"] },
   { name: "7 Different Lightsaber Colors", types: ["Colors", "Thermals", "Credits", "StarMaps"] },
   { name: "Sith Power Gauntlets", types: ["Gloves", "StarMaps", "Thermals", "Verpine"] },
   { name: "Sapith and Upari Crystals", types: ["Crystal", "StarMaps", "Thermals", "Verpine"] },
   { name: "Kill Jolee and Juhani", types: ["StarMaps", "Dark"] },
   { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
-  { name: "Maximum Passive Force Point Regeneration", types: ["Regen", "Colors", "Credits", "StarMaps", "Thermals"] },
+  { name: "Complete \"Rakatan Research\"", types: ["StarMaps", "Thermals"] },
 ];
 bingoList[23] = [
   { name: "All 14 Light Armors", types: ["Credits", "Geno"] },
-  { name: "Complete \"Rakatan Research\"", types: ["StarMaps", "Thermals"] },
+  { name: "Maximum Passive Force Point Regeneration", types: ["Regen", "Colors", "Credits", "StarMaps", "Thermals"] },
   { name: "Clear a Rakatan Settlement", types: ["Clear", "StarMaps"] },
   { name: "Kill 25 Mandalorians", types: ["Mandos", "StarMaps", "Verpine"] },
   { name: "Complete All 18 Taris Quests", types: ["Bounty", "Duel", "TarQuest"] },
