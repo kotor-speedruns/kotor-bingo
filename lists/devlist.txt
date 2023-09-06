@@ -1,4 +1,4 @@
-var bingoListVersion = "6.10";
+var bingoListVersion = "6.11";
 var bingoList = [];
 
 bingoList[1] = [
@@ -166,7 +166,7 @@ bingoList[14] = [
   { name: "Win All 8 Swoop Races", types: ["Swoops", "ManSwoops", "TatSwoops"] },
   { name: "Kill Griff", types: ["Mission", "Griff", "Tatooine", "Party", "Family"] },
   { name: "Recruit All Party Members", types: ["Party","Mission","Zaalbar","Juhani","Jolee","HK","T3"] },  
-  { name: "Complete \"Jagi's Challenge\"", types: ["Party"] },
+  { name: "Complete \"Jagi's Challenge\"", types: ["Party", "Canderous"] },
   { name: "Complete 5 Bounty Quests", types: ["Bounty", "Geno", "QuestNum"] },
 ];
 bingoList[15] = [
@@ -239,13 +239,13 @@ bingoList[20] = [
   { name: "Clear the Prison Block with Party Member", types: ["Leviathan"] },
   { name: "Kill Saul Karath", types: ["Bosses", "Leviathan"] },
   { name: "All 4 Disguises", types: ["Leviathan", "Disguise"] },
+  { name: "Ship Parts", types: ["StarMaps", "Rancor"] },
 ];
 bingoList[21] = [
   { name: "Defeat Malak on the Leviathan", types: ["Leviathan"] },
   { name: "Kill Calo, Davik, Bandon, and Saul", types: ["Leviathan", "Bosses"] },
   { name: "Heart of the Guardian", types: ["Credits", "StarMaps", "Thermals", "Colors"] },
   { name: "Adrenaline Stimulator", types: ["Credits", "Mika", "StarMaps"] },
-  { name: "Ship Parts", types: ["StarMaps", "Rancor"] },
   { name: "Kill The One", types: ["StarMaps", "Rancor"] },
   { name: "Kill Keeper Orsaa", types: ["StarMaps", "Rancor"] },
   { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
@@ -273,11 +273,12 @@ bingoList[23] = [
   { name: "Star Map: Kashyyyk as Revan", types: ["Kashyyyk", "StarMaps"] },
   { name: "All 6 Stealth Generators", types: ["Credits", "StarMaps", "Belts"] },
   { name: "Squad Recovery Stim", types: ["StarMaps", "Dark"] },
+  { name: "Defeat Every Pazaak Player Once", types: ["Pazaak"] },
 ];
 bingoList[24] = [
   { name: "7 Different Visors", types: ["Visors", "Geno"] },
   { name: "Clear the Leviathan", types: ["Leviathan", "Clear"] }, 
-  { name: "Defeat Every Pazaak Player Once", types: ["Pazaak"] },
+  { name: "Complete \"Canderous\"", types: ["Party", "Canderous"] },
   { name: "All 9 Verpine Equipments", types: ["Verpine", "Mika", "StarMaps", "Mandos"] },
   { name: "Darth Revan's Robes", types: ["AlignedItem", "StarMaps", "Dark"] },
   { name: "Star Forge Robes", types: ["AlignedItem", "StarMaps"] },
