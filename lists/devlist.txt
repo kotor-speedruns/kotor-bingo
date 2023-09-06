@@ -253,6 +253,7 @@ bingoList[21] = [
   { name: "All 10 Armbands", types: ["Armband", "Mika", "StarMaps"] },
 ];
 bingoList[22] = [
+  { name: "Obtain 10 Complete Area Maps", types: ["Maps"] },
   { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },  
   { name: "All 14 Medium Armors", types: ["Credits", "Mika"] },
   { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
@@ -264,11 +265,10 @@ bingoList[22] = [
   { name: "Maximum Passive Force Point Regeneration", types: ["Regen", "Colors", "Credits", "StarMaps", "Thermals"] },
 ];
 bingoList[23] = [
-  { name: "Obtain 10 Complete Area Maps", types: ["Maps"] },
   { name: "All 14 Light Armors", types: ["Credits", "Geno"] },
   { name: "Complete \"Rakatan Research\"", types: ["StarMaps", "Thermals"] },
   { name: "Clear a Rakatan Settlement", types: ["Clear", "StarMaps"] },
-  { name: "Kill 25 Mandalorians", types: ["Mandos", "StarMaps", "Verpine"] },  
+  { name: "Kill 25 Mandalorians", types: ["Mandos", "StarMaps", "Verpine"] },
   { name: "Complete All 18 Taris Quests", types: ["Bounty", "Duel", "TarQuest"] },
   { name: "Star Map: Kashyyyk as Revan", types: ["Kashyyyk", "StarMaps"] },
   { name: "All 6 Stealth Generators", types: ["Credits", "StarMaps", "Belts"] },
