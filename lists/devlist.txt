@@ -1,4 +1,4 @@
-var bingoListVersion = "6.13";
+var bingoListVersion = "6.14";
 var bingoList = [];
 
 bingoList[1] = [
@@ -245,7 +245,7 @@ bingoList[21] = [
   { name: "Defeat Malak on the Leviathan", types: ["Leviathan"] },
   { name: "Kill Calo, Davik, Bandon, and Saul", types: ["Leviathan", "Bosses"] },
   { name: "Heart of the Guardian", types: ["Credits", "StarMaps", "Thermals", "Colors"] },
-  { name: "Adrenaline Stimulator", types: ["Credits", "Mika", "StarMaps"] },
+  { name: "Adrenaline Stimulator", types: ["Credits", "Leviathan", "Mika", "StarMaps"] },
   { name: "Kill The One", types: ["StarMaps", "Rancor"] },
   { name: "Kill Keeper Orsaa", types: ["StarMaps", "Rancor"] },
   { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
@@ -267,7 +267,7 @@ bingoList[22] = [
 ];
 bingoList[23] = [
   { name: "All 14 Light Armors", types: ["Credits", "Geno"] },
-  { name: "Maximum Passive Force Point Regeneration", types: ["Regen", "Colors", "Credits", "StarMaps", "Thermals"] },
+  { name: "Maximum Passive Force Point Regeneration", types: ["Regen", "Colors", "Credits", "StarMaps", "Masks", "Thermals"] },
   { name: "Clear a Rakatan Settlement", types: ["Clear", "StarMaps"] },
   { name: "Kill 25 Mandalorians", types: ["Mandos", "StarMaps", "Verpine"] },
   { name: "Complete All 18 Taris Quests", types: ["Bounty", "Duel", "TarQuest"] },
