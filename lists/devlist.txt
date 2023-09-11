@@ -263,7 +263,7 @@ bingoList[22] = [
   { name: "Sapith and Upari Crystals", types: ["Crystal", "StarMaps", "Thermals", "Verpine"] },
   { name: "Kill Jolee and Juhani", types: ["StarMaps", "Dark"] },
   { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
-  { name: "Star Map: Kashyyyk as Revan", types: ["Kashyyyk", "StarMaps"] },
+  { name: "Star Map: Kashyyyk as Revan", types: ["Kashyyyk", "Leviathan", "StarMaps"] },
 ];
 bingoList[23] = [
   { name: "All 14 Light Armors", types: ["Credits", "Geno"] },
