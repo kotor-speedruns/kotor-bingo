@@ -1,4 +1,4 @@
-var bingoListVersion = "6.15";
+var bingoListVersion = "6.16";
 var bingoList = [];
 
 bingoList[1] = [
@@ -83,7 +83,7 @@ bingoList[7] = [
   { name: "Complete \"Honest Debt\"", types: ["Kashyyyk"] },
   { name: "Nextor Crystal", types: ["Crystal"] },
   { name: "Purchase a Store's Entire Inventory", types: ["Credits"] },
-  { name: "3 Different Masks", types: ["Tombs", "Masks"] },
+  { name: "Solari Crystal", types: ["Crystal", "Korriban", "Hunt", "AlignedItem"] },
 ];
 bingoList[8] = [
   { name: "Free Hudrow", types: ["Taris", "Prisoners"] },
@@ -92,27 +92,27 @@ bingoList[8] = [
   { name: "Help Three Taris Bounties Escape", types: ["Bounty", "Taris"] },
   { name: "All 18 Pazaak Sidedeck Cards", types: ["Pazaak"] }, 
   { name: "Eralam Crystal", types: ["Crystal"] },
-  { name: "Solari Crystal", types: ["Crystal", "Korriban", "Hunt", "AlignedItem"] },
+  { name: "Clear the Endar Spire", types: ["Clear"] },
   { name: "Kill Darth Bandon", types: ["Bosses"] },  
   { name: "Carbonite Projector Mark II", types: ["Korriban", "Tombs"] },
   { name: "Firkrann Crystal", types: ["Crystal","Korriban"] },
 ];
 bingoList[9] = [
-  { name: "Clear the Endar Spire", types: ["Clear"] },
   { name: "Give Motta the Mysterious Box", types: ["Riddles"] },
   { name: "Fully Upgraded Mission's Vibroblade", types: ["Mission", "Upgrade"] },
   { name: "Kill Kel Algwinn", types: ["Korriban"] }, 
   { name: "Light or Dark Side Mastery", types: ["Alignment", "Mastery", "FP"] },
   { name: "Kill Belaya", types: ["Belaya","Juhani","Party"] },  
   { name: "Get Banned From Manaan", types: ["Manaan"] }, 
+  { name: "Free 5 Prisoners", types: ["Academy", "Prisoners"] },
   { name: "Master Toughness and Master Conditioning", types: ["Character"] }, 
   { name: "Fully Upgraded Zaalbar's Bowcaster", types: ["Zaalbar", "Upgrade"] },
   { name: "Three Permanent Immunities", types: ["Immunity"] },
 ];
 bingoList[10] = [
+  { name: "Buy Life Support Pack for 450 Credits", types: ["Manaan"] },
   { name: "Clear the Taris Sith Base", types: ["Clear", "Taris"] },
   { name: "Two Krayt Dragon Pearls", types: ["Tatooine", "Crystal"] },
-  { name: "Free 5 Prisoners", types: ["Academy", "Prisoners"] },
   { name: "Redeem Ajunta Pall's Spirit", types: ["Korriban", "Tombs", "Redeem"] },
   { name: "8 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Return Sasha to Dantooine", types: ["Party", "Zaalbar"] },
@@ -191,7 +191,6 @@ bingoList[16] = [
   { name: "All 3 Great Hunt Journals", types: ["Hunt"] },
   { name: "Kill Four Terentateks", types: ["Hunt"] },
   { name: "All 4 Sith Lord Artifacts", types: ["Tombs", "Korriban", "AlignedItem"] },
-  { name: "5 Different Masks", types: ["Tombs", "Masks"] },
 ];
 bingoList[17] = [
   { name: "Clear the Hrakert Rift Station", types: ["Manaan", "Clear"] },
@@ -259,7 +258,7 @@ bingoList[22] = [
   { name: "All 14 Medium Armors", types: ["Credits", "Mika"] },
   { name: "Fully Upgraded Rakatan Battle Wand", types: ["Upgrade", "StarMaps"] },
   { name: "7 Different Lightsaber Colors", types: ["Colors", "Thermals", "Credits", "StarMaps"] },
-  { name: "Sith Power Gauntlets", types: ["Gloves", "StarMaps", "Thermals", "Verpine"] },
+  { name: "Vacuum Mask", types: ["StarMaps", "Thermals", "Verpine"] },
   { name: "Sapith and Upari Crystals", types: ["Crystal", "StarMaps", "Thermals", "Verpine"] },
   { name: "Kill Jolee and Juhani", types: ["StarMaps", "Dark"] },
   { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
