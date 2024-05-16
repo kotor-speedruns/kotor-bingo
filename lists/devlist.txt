@@ -199,7 +199,7 @@ bingoList[17] = [
   { name: "Complete All 3 Murder Quests", types: ["Murder", "Mastery"] },
   { name: "Complete 8 Bounty Quests", types: ["Bounty", "Geno", "QuestNum"] },
   { name: "180 Permanent Maximum Force Points", types: ["Character", "FP"] },
-  { name: "Complete All 7 Manaan Quests", types: ["Manaan","Quests","ManSwoops"] },
+  { name: "Complete All 7 Manaan Quests", types: ["Manaan","Quests","ManSwoops","Sunry"] },
   { name: "Complete \"Threat from Xor\"", types: ["Juhani", "Party"] },
   { name: "All 5 Advanced Droid Weapons", types: ["Tombs"] },
   { name: "Zaalbar Wielding Bacca's Ceremonial Blade", types: ["Zaalbar","Kashyyyk","Chieftain"] },
