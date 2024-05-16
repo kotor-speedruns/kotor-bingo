@@ -1,4 +1,4 @@
-var bingoListVersion = "6.18";
+var bingoListVersion = "6.19";
 var bingoList = [];
 
 bingoList[1] = [
@@ -283,7 +283,7 @@ bingoList[24] = [
   { name: "7 Different Visors", types: ["Visors", "Geno"] },
   { name: "All 9 Verpine Equipments", types: ["Verpine", "Mika", "StarMaps", "Mandos"] },
   { name: "Defeat Every Pazaak Player Once", types: ["Pazaak"] },
-  { name: "Complete \"Canderous\"", types: ["Party", "Canderous"] },
+  { name: "Complete \"Canderous\"", types: ["Party", "Canderous", "StarMaps"] },
   { name: "Romance Juhani", types: ["Party", "StarMaps", "Gender", "Juhani", "Belaya"] },
   { name: "Romance Carth", types: ["Party", "StarMaps", "Leviathan", "Gender"] },
   { name: "Kill Bastila", types: ["StarMaps"] },
