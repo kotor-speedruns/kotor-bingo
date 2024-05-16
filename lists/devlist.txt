@@ -1,4 +1,4 @@
-var bingoListVersion = "6.17";
+var bingoListVersion = "6.18";
 var bingoList = [];
 
 bingoList[1] = [
@@ -77,8 +77,8 @@ bingoList[7] = [
   { name: "Complete \"Rakghoul Serum\"", types: ["Taris","TarQuest"] },  
   { name: "Davik's War Suit", types: ["Taris", "Visors", "Bosses"] },
   { name: "150 Racing Bonds", types: ["Tatooine", "Swoops", "TatSwoops"] },
-  { name: "Complete \"Sandral-Matale Feud\"", types: ["Dantooine"] },
-  { name: "Two Weapon Specializations", types: ["Character"] },
+  { name: "Complete \"Sandral-Matale Feud\"", types: ["Dantooine", "Feud"] },
+  { name: "Get Banned From 1 Place", types: ["Banned"] }, 
   { name: "Kill Kandon Ark", types: ["Taris"] },
   { name: "Complete \"Honest Debt\"", types: ["Kashyyyk"] },
   { name: "Nextor Crystal", types: ["Crystal"] },
@@ -87,7 +87,7 @@ bingoList[7] = [
 ];
 bingoList[8] = [
   { name: "Free Hudrow", types: ["Taris", "Prisoners"] },
-  { name: "Clear the Hidden Bek Base", types: ["Clear", "Taris"] },
+  { name: "Two Weapon Specializations", types: ["Character"] },
   { name: "Kill an Albino Kath Hound", types: ["Dantooine"] },
   { name: "Help Three Taris Bounties Escape", types: ["Bounty", "Taris"] },
   { name: "All 18 Pazaak Sidedeck Cards", types: ["Pazaak"] }, 
@@ -103,7 +103,7 @@ bingoList[9] = [
   { name: "Kill Kel Algwinn", types: ["Korriban"] }, 
   { name: "Light or Dark Side Mastery", types: ["Alignment", "Mastery", "FP"] },
   { name: "Kill Belaya", types: ["Belaya","Juhani","Party"] },  
-  { name: "Get Banned From Manaan", types: ["Manaan"] }, 
+  { name: "Clear the Hidden Bek Base", types: ["Clear", "Taris"] },
   { name: "Free 5 Prisoners", types: ["Academy", "Prisoners"] },
   { name: "Master Toughness and Master Conditioning", types: ["Character"] }, 
   { name: "Fully Upgraded Zaalbar's Bowcaster", types: ["Zaalbar", "Upgrade"] },
@@ -146,7 +146,7 @@ bingoList[12] = [
   { name: "Passive Vitality and Force Point Regeneration", types: ["Masks", "Regen", "Implant", "ArmorProf"] },
 ];
 bingoList[13] = [
-  { name: "Complete \"The Promised Land\"", types: ["Taris","TarQuest"] },
+  { name: "Complete \"The Promised Land\"", types: ["Taris", "Promised", "TarQuest"] },
   { name: "Clear the Vulkar Base", types: ["Taris", "Clear"] },
   { name: "Redeem 2 Sith to the Light", types: ["Redeem", "Korriban", "Family", "Tombs"] },
   { name: "Complete \"Mandalorian Raiders\"", types: ["Dantooine", "Mandos"] },
@@ -183,12 +183,13 @@ bingoList[15] = [
 ];
 bingoList[16] = [
   { name: "Clear Davik's Estate", types: ["Taris", "Clear"] },
+  { name: "Get Banned from 3 Places", types: ["Banned"] },
   { name: "Level 6 in Two Classes", types: ["Character"] },
   { name: "150 Permanent Maximum Vitality", types: ["Character"] },
   { name: "Complete All 8 Dantooine Quests", types: ["Dantooine","Quests"] },
   { name: "Fully Upgraded Baragwin Assault Blade", types: ["Upgrade"] },
   { name: "Both Exoskeletons", types: ["Credits"] },
-  { name: "Complete 3 Major Sidequests", types: ["Quests", "Major"] },
+  { name: "Complete 3 Major Sidequests", types: ["Quests", "Promised", "Chieftain", "Sunry", "Feud", "Prestige", "History"] },
   { name: "All 3 Great Hunt Journals", types: ["Hunt"] },
   { name: "Kill Four Terentateks", types: ["Hunt"] },
   { name: "All 4 Sith Lord Artifacts", types: ["Tombs", "Korriban", "AlignedItem"] },
@@ -202,7 +203,7 @@ bingoList[17] = [
   { name: "Complete \"Threat from Xor\"", types: ["Juhani", "Party"] },
   { name: "All 5 Advanced Droid Weapons", types: ["Tombs"] },
   { name: "Zaalbar Wielding Bacca's Ceremonial Blade", types: ["Zaalbar","Kashyyyk","Chieftain"] },
-  { name: "Raito's Gaderffii", types: ["Tatooine"] },
+  { name: "Raito's Gaderffii", types: ["Tatooine", "History"] },
   { name: "Give Griff a Tach Gland", types: ["Tatooine", "Griff", "Mission"] },
 ];
 bingoList[18] = [
@@ -225,7 +226,7 @@ bingoList[19] = [
   { name: "Five Alignment-Restricted Items", types: ["Tombs", "AlignedItem"] },
   { name: "Three Light Alignment-Restricted Items", types: ["AlignedItem"] },
   { name: "Complete All 11 Tatooine Quests", types: ["Tatooine", "Quests", "TatSwoops"] },
-  { name: "10 Prestige Points", types: ["Korriban"] },
+  { name: "10 Prestige Points", types: ["Korriban", "Prestige"] },
   { name: "Complete All 4 Minigame Quests", types: ["Duel", "Swoops", "Pazaak"] },
   { name: "Complete All 4 Party Family Quests", types: ["Party", "Mission", "Zaalbar", "Family"] },
 ];
@@ -251,6 +252,7 @@ bingoList[21] = [
   { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
   { name: "Verpine Zal Alloy Mesh", types: ["Mandos", "Verpine", "StarMaps"] },
   { name: "All 10 Armbands", types: ["Armband", "Mika", "StarMaps"] },
+  { name: "Complete 5 Major Sidequests", types: ["Quests", "Chieftain", "Sunry", "Feud", "Promised", "Prestige", "History"] },
   { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
 ];
 bingoList[22] = [
