@@ -235,11 +235,11 @@ bingoList[20] = [
   { name: "Clear the Sith Academy", types: ["Korriban", "Academy", "Clear"] },
   { name: "Clear the Manaan Sith Base", types: ["Manaan", "Clear"] },
   { name: "Niklos Accuses You of Cheating", types: ["Pazaak"] },
-  { name: "All 5 Star Maps", types: ["StarMaps"] },
   { name: "Complete All 13 Korriban Quests", types: ["Korriban", "Quests"] },
   { name: "Clear the Prison Block with Party Member", types: ["Leviathan"] },
   { name: "Kill Saul Karath", types: ["Bosses", "Leviathan"] },
   { name: "All 4 Disguises", types: ["Leviathan", "Disguise"] },
+  { name: "All 5 Star Maps", types: ["StarMaps"] },
   { name: "Ship Parts", types: ["StarMaps", "Rancor"] },
 ];
 bingoList[21] = [
@@ -250,12 +250,12 @@ bingoList[21] = [
   { name: "Obtain 10 Complete Area Maps", types: ["Maps"] },
   { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },  
   { name: "All 14 Medium Armors", types: ["Credits", "Mika"] },
+  { name: "All 10 Armbands", types: ["Armband", "Mika", "StarMaps"] },
   { name: "Heart of the Guardian", types: ["Credits", "StarMaps", "Thermals", "Colors"] },
   { name: "Adrenaline Stimulator", types: ["Credits", "Leviathan", "Mika", "StarMaps"] },
-  { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
 ];
 bingoList[22] = [
-  { name: "All 10 Armbands", types: ["Armband", "Mika", "StarMaps"] },
+  { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
   { name: "Kill The One", types: ["StarMaps", "Rancor"] },
   { name: "Kill Keeper Orsaa", types: ["StarMaps", "Rancor"] },
   { name: "Star Map: Kashyyyk as Revan", types: ["Kashyyyk", "Leviathan", "StarMaps"] },
