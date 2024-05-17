@@ -1,4 +1,4 @@
-var bingoListVersion = "6.19";
+var bingoListVersion = "6.20";
 var bingoList = [];
 
 bingoList[1] = [
@@ -110,7 +110,7 @@ bingoList[9] = [
   { name: "Three Permanent Immunities", types: ["Immunity"] },
 ];
 bingoList[10] = [
-  { name: "Buy Life Support Pack for 450 Credits", types: ["Manaan"] },
+  { name: "Buy Any Medpac for 120 Credits", types: ["Manaan", "Mika", "Suvam"] },
   { name: "Clear the Taris Sith Base", types: ["Clear", "Taris"] },
   { name: "Two Krayt Dragon Pearls", types: ["Tatooine", "Crystal"] },
   { name: "Redeem Ajunta Pall's Spirit", types: ["Korriban", "Tombs", "Redeem"] },
@@ -292,7 +292,7 @@ bingoList[24] = [
   { name: "Create Any Type of Forge Droid", types: ["StarMaps"] },
 ];
 bingoList[25] = [
-  { name: "Get Suvam Tam's Pazaak Discount", types: ["Pazaak"] }, 
+  { name: "Get Suvam Tam's Pazaak Discount", types: ["Pazaak", "Suvam"] }, 
   { name: "15 Different Lightsaber Power Crystals", types: ["Crystal", "StarMaps", "Verpine"] },
   { name: "11 Different Jedi Robes", types: ["Robes", "Verpine", "StarMaps", "Dark", "AlignedItem"] },
   { name: "All 10 Heavy Armors", types: ["StarMaps", "Heavy", "Mika", "Credits"] },
