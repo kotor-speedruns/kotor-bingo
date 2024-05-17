@@ -64,10 +64,10 @@ bingoList[5] = [
 bingoList[6] = [
   { name: "Deactivate the Steam Vents", types: ["Manaan"] },
   { name: "Complete \"Pazaak Rules\"", types: ["Pazaak"] },
+  { name: "Kill a Terentatek", types: ["Korriban", "Chieftain", "Hunt"] },
   { name: "Become Sector Champion on Manaan", types: ["Manaan", "ManSwoops", "Swoops"] },
   { name: "Passive Vitality Regeneration", types: ["Regen", "Implant"] },
   { name: "Passive Force Point Regeneration", types: ["Regen", "Masks", "ArmorProf"] },
-  { name: "Echani Foil", types: ["Manaan"] },
   { name: "Jenruax Crystal", types: ["Crystal"] },
   { name: "5 Different Lightsaber Colors", types: ["Colors"] },
   { name: "Complete \"Sand People\"", types: ["Tatooine"] },
@@ -183,21 +183,21 @@ bingoList[15] = [
 ];
 bingoList[16] = [
   { name: "Clear Davik's Estate", types: ["Taris", "Clear"] },
-  { name: "Get Banned from 3 Places", types: ["Banned"] },
+  { name: "Get Banned from 3 Places", types: ["Banned", "Feud", "Chieftain"] },
   { name: "Level 6 in Two Classes", types: ["Character"] },
   { name: "150 Permanent Maximum Vitality", types: ["Character"] },
   { name: "Complete All 8 Dantooine Quests", types: ["Dantooine","Quests"] },
   { name: "Fully Upgraded Baragwin Assault Blade", types: ["Upgrade"] },
-  { name: "Both Exoskeletons", types: ["Credits"] },
-  { name: "Complete 3 Major Sidequests", types: ["Quests", "Promised", "Chieftain", "Sunry", "Feud", "Prestige", "History"] },
+  { name: "Both Exoskeletons", types: ["Credits"] },  
+  { name: "Complete 8 Bounty Quests", types: ["Bounty", "Geno", "QuestNum"] },
   { name: "All 3 Great Hunt Journals", types: ["Hunt"] },
   { name: "Kill Four Terentateks", types: ["Hunt"] },
   { name: "All 4 Sith Lord Artifacts", types: ["Tombs", "Korriban", "AlignedItem"] },
 ];
 bingoList[17] = [
   { name: "Clear the Hrakert Rift Station", types: ["Manaan", "Clear"] },
-  { name: "Complete All 3 Murder Quests", types: ["Murder", "Mastery"] },
-  { name: "Complete 8 Bounty Quests", types: ["Bounty", "Geno", "QuestNum"] },
+  { name: "Complete All 3 Murder Quests", types: ["Murder", "Mastery", "Sunry"] },
+  { name: "Complete 3 Major Planetary Quests", types: ["Quests", "Promised", "Chieftain", "Sunry", "Feud", "Prestige", "History"] },
   { name: "180 Permanent Maximum Force Points", types: ["Character", "FP"] },
   { name: "Complete All 7 Manaan Quests", types: ["Manaan","Quests","ManSwoops","Sunry"] },
   { name: "Complete \"Threat from Xor\"", types: ["Juhani", "Party"] },
@@ -252,7 +252,7 @@ bingoList[21] = [
   { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
   { name: "Verpine Zal Alloy Mesh", types: ["Mandos", "Verpine", "StarMaps"] },
   { name: "All 10 Armbands", types: ["Armband", "Mika", "StarMaps"] },
-  { name: "Complete 5 Major Sidequests", types: ["Quests", "Chieftain", "Sunry", "Feud", "Promised", "Prestige", "History"] },
+  { name: "Complete 6 Major Planetary Quests", types: ["Quests", "Chieftain", "Sunry", "Feud", "Promised", "Prestige", "History"] },
   { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
 ];
 bingoList[22] = [
@@ -280,7 +280,7 @@ bingoList[23] = [
   { name: "Force Zaalbar to Kill Mission", types: ["Zaalbar", "Mission", "Dark", "StarMaps"] },
 ];
 bingoList[24] = [
-  { name: "7 Different Visors", types: ["Visors", "Geno"] },
+  { name: "7 Different Visors", types: ["Visors", "Geno", "StarMaps"] },
   { name: "All 9 Verpine Equipments", types: ["Verpine", "Mika", "StarMaps", "Mandos"] },
   { name: "Defeat Every Pazaak Player Once", types: ["Pazaak"] },
   { name: "Complete \"Canderous\"", types: ["Party", "Canderous", "StarMaps"] },
