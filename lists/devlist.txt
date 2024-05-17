@@ -272,7 +272,7 @@ bingoList[23] = [
   { name: "Maximum Passive Force Point Regeneration", types: ["Regen", "Colors", "Credits", "StarMaps", "Masks", "Thermals"] },
   { name: "Clear a Rakatan Settlement", types: ["Clear", "StarMaps"] },
   { name: "Kill 25 Mandalorians", types: ["Mandos", "StarMaps", "Verpine"] },
-  { name: "Complete All 18 Taris Quests", types: ["Bounty", "Duel", "TarQuest"] },
+  { name: "Complete All 18 Taris Quests", types: ["Bounty", "Duel", "Taris", "TarQuest"] },
   { name: "Complete \"Rakatan Research\"", types: ["StarMaps", "Thermals"] },
   { name: "All 6 Stealth Generators", types: ["Credits", "StarMaps", "Belts"] },
   { name: "Squad Recovery Stim", types: ["StarMaps", "Dark"] },
