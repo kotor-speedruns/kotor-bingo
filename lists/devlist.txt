@@ -187,7 +187,7 @@ bingoList[16] = [
   { name: "Get Banned from 3 Places", types: ["Banned", "Feud", "Chieftain"] },
   { name: "Level 6 in Two Classes", types: ["Character"] },
   { name: "150 Permanent Maximum Vitality", types: ["Character"] },
-  { name: "Complete All 8 Dantooine Quests", types: ["Dantooine","Quests"] },
+  { name: "Complete All 8 Dantooine Quests", types: ["Dantooine", "Mandos", "Quests"] },
   { name: "Fully Upgraded Baragwin Assault Blade", types: ["Upgrade"] },
   { name: "All 3 Great Hunt Journals", types: ["Hunt"] },
   { name: "Complete All 3 Murder Quests", types: ["Murder", "Mastery", "Sunry"] },
@@ -197,7 +197,7 @@ bingoList[16] = [
 bingoList[17] = [
   { name: "Clear the Hrakert Rift Station", types: ["Manaan", "Clear"] },
   { name: "Complete 8 Bounty Quests", types: ["Bounty", "Geno", "QuestNum"] },
-  { name: "Complete 3 Major Planetary Quests", types: ["Quests", "Promised", "Chieftain", "Sunry", "Feud", "Prestige", "History"] },
+  { name: "Complete 3 Major Planetary Quests", types: ["Quests", "TarQuest", "Promised", "Chieftain", "Sunry", "Feud", "Prestige", "History"] },
   { name: "Fully Upgraded Light and Heavy Exoskeletons", types: ["Upgrade"] },
   { name: "180 Permanent Maximum Force Points", types: ["Character", "FP"] },
   { name: "Complete All 7 Manaan Quests", types: ["Manaan","Quests","ManSwoops","Sunry"] },
@@ -209,7 +209,7 @@ bingoList[17] = [
 bingoList[18] = [
   { name: "Clear the Sand People Enclave", types: ["Tatooine", "Clear"] },  
   { name: "Luxum Crystal", types: ["Crystal", "Manaan", "Robes"] },
-  { name: "Complete All 7 Kashyyyk Quests", types: ["Kashyyyk", "Quests", "Chieftain", "Mastery"] },
+  { name: "Complete All 7 Kashyyyk Quests", types: ["Kashyyyk", "Mandos", "Quests", "Chieftain", "Mastery"] },
   { name: "16 Permanent Points in All Saves", types: ["Character"] },
   { name: "12 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Redeem 4 Sith to the Light", types: ["Korriban", "Tombs", "Redeem"] },
