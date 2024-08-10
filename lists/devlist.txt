@@ -245,7 +245,6 @@ bingoList[20] = [
 bingoList[21] = [
   { name: "Defeat Malak on the Leviathan", types: ["Leviathan"] },
   { name: "Kill Calo, Davik, Bandon, and Saul", types: ["Leviathan", "Bosses"] },
-  { name: "Heart of the Guardian", types: ["Credits", "StarMaps", "Thermals", "Colors"] },
   { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
   { name: "Obtain 10 Complete Area Maps", types: ["Maps"] },
   { name: "Kill The One", types: ["StarMaps", "Rancor"] },
