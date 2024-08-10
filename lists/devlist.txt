@@ -255,7 +255,7 @@ bingoList[21] = [
 ];
 bingoList[22] = [
   { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },
-  { name: "Empty Mika's Shop Inventory", types: ["Credits", "Leviathan", "Mika", "StarMaps"] },
+  { name: "Mika's Shop Inventory is Empty", types: ["Credits", "Leviathan", "Mika", "StarMaps"] },
   { name: "All 14 Medium Armors", types: ["Credits", "Mika"] },
   { name: "Fully Upgraded Rakatan Battle Wand", types: ["Upgrade", "StarMaps"] },
   { name: "7 Different Lightsaber Colors", types: ["Colors", "Thermals", "Credits", "StarMaps"] },
