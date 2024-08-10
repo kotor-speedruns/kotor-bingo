@@ -82,7 +82,7 @@ bingoList[7] = [
   { name: "Kill Kandon Ark", types: ["Taris"] },
   { name: "Complete \"Honest Debt\"", types: ["Kashyyyk"] },
   { name: "Nextor Crystal", types: ["Crystal"] },
-  { name: "Purchase a Store's Entire Inventory", types: ["Credits"] },
+  { name: "Purchase a Store's Entire Inventory", types: ["Credits", "Mika"] },
   { name: "Solari Crystal", types: ["Crystal", "Korriban", "Hunt", "AlignedItem"] },
 ];
 bingoList[8] = [
@@ -246,18 +246,18 @@ bingoList[21] = [
   { name: "Defeat Malak on the Leviathan", types: ["Leviathan"] },
   { name: "Kill Calo, Davik, Bandon, and Saul", types: ["Leviathan", "Bosses"] },
   { name: "Heart of the Guardian", types: ["Credits", "StarMaps", "Thermals", "Colors"] },
-  { name: "Adrenaline Stimulator", types: ["Credits", "Leviathan", "Mika", "StarMaps"] },
+  { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
+  { name: "Obtain 10 Complete Area Maps", types: ["Maps"] },
   { name: "Kill The One", types: ["StarMaps", "Rancor"] },
   { name: "Kill Keeper Orsaa", types: ["StarMaps", "Rancor"] },
-  { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
   { name: "Verpine Zal Alloy Mesh", types: ["Mandos", "Verpine", "StarMaps"] },
   { name: "All 10 Armbands", types: ["Armband", "Mika", "StarMaps"] },
   { name: "Complete 6 Major Planetary Quests", types: ["Quests", "Chieftain", "Sunry", "Feud", "Promised", "Prestige", "History"] },
   { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
 ];
 bingoList[22] = [
-  { name: "Obtain 10 Complete Area Maps", types: ["Maps"] },
-  { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },  
+  { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },
+  { name: "Empty Mika's Shop Inventory", types: ["Credits", "Leviathan", "Mika", "StarMaps"] },
   { name: "All 14 Medium Armors", types: ["Credits", "Mika"] },
   { name: "Fully Upgraded Rakatan Battle Wand", types: ["Upgrade", "StarMaps"] },
   { name: "7 Different Lightsaber Colors", types: ["Colors", "Thermals", "Credits", "StarMaps"] },
