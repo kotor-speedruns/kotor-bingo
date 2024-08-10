@@ -1,4 +1,4 @@
-var bingoListVersion = "6.24";
+var bingoListVersion = "6.25";
 var bingoList = [];
 
 bingoList[1] = [
@@ -59,12 +59,11 @@ bingoList[5] = [
   { name: "Improved Scoundrel's Luck", types: ["Character"] },
   { name: "Uncanny Dodge 2", types: ["Character"] },
   { name: "3 Different Visors", types: ["Visors"] },
-  { name: "10,000 Credits", types: ["Credits"] },
+  { name: "Kill 1 Terentatek", types: ["Korriban", "Chieftain", "Hunt"] },
 ];
 bingoList[6] = [
-  { name: "Deactivate the Steam Vents", types: ["Manaan"] },
   { name: "Complete \"Pazaak Rules\"", types: ["Pazaak"] },
-  { name: "Kill 1 Terentatek", types: ["Korriban", "Chieftain", "Hunt"] },
+  { name: "Deactivate the Steam Vents", types: ["Manaan"] },
   { name: "Become Sector Champion on Manaan", types: ["Manaan", "ManSwoops", "Swoops"] },
   { name: "Passive Vitality Regeneration", types: ["Regen", "Implant"] },
   { name: "Passive Force Point Regeneration", types: ["Regen", "Masks", "ArmorProf"] },
@@ -72,6 +71,7 @@ bingoList[6] = [
   { name: "5 Different Lightsaber Colors", types: ["Colors"] },
   { name: "Complete \"Sand People\"", types: ["Tatooine"] },
   { name: "Successfully Interrogate the Sith Prisoner", types: ["Manaan"] },
+  { name: "Complete \"Honest Debt\"", types: ["Kashyyyk"] },
 ];
 bingoList[7] = [
   { name: "Complete \"Rakghoul Serum\"", types: ["Taris", "TarQuest", "Serum"] },  
@@ -80,14 +80,13 @@ bingoList[7] = [
   { name: "Complete \"Sandral-Matale Feud\"", types: ["Dantooine", "Feud"] },
   { name: "Two Weapon Specializations", types: ["Character"] },
   { name: "Kill Kandon Ark", types: ["Taris"] },
-  { name: "Complete \"Honest Debt\"", types: ["Kashyyyk"] },
   { name: "Nextor Crystal", types: ["Crystal"] },
   { name: "Purchase a Store's Entire Inventory", types: ["Credits", "Mika"] },
   { name: "Solari Crystal", types: ["Crystal", "Korriban", "Hunt", "AlignedItem"] },
+  { name: "Kill an Albino Kath Hound", types: ["Dantooine"] },
 ];
 bingoList[8] = [
   { name: "Free Hudrow", types: ["Taris", "Prisoners"] },
-  { name: "Kill an Albino Kath Hound", types: ["Dantooine"] },
   { name: "Help 3 Taris Bounties Escape", types: ["Bounty", "Taris"] },
   { name: "Clear the Hidden Bek Base", types: ["Clear", "Taris"] },
   { name: "All 18 Pazaak Sidedeck Cards", types: ["Pazaak"] }, 
@@ -96,6 +95,7 @@ bingoList[8] = [
   { name: "Kill Darth Bandon", types: ["Bosses"] },  
   { name: "Carbonite Projector Mark II", types: ["Korriban", "Tombs"] },
   { name: "Firkrann Crystal", types: ["Crystal","Korriban"] },
+  { name: "Free 5 Prisoners", types: ["Academy", "Prisoners"] },
 ];
 bingoList[9] = [
   { name: "Give Motta the Mysterious Box", types: ["Riddles"] },
@@ -104,10 +104,10 @@ bingoList[9] = [
   { name: "Get Banned From Manaan", types: ["Banned", "Manaan"] }, 
   { name: "Light or Dark Side Mastery", types: ["Alignment", "Mastery", "FP"] },
   { name: "Kill Belaya", types: ["Belaya","Juhani","Party"] },  
-  { name: "Free 5 Prisoners", types: ["Academy", "Prisoners"] },
   { name: "Master Toughness and Master Conditioning", types: ["Character"] }, 
   { name: "Fully Upgraded Zaalbar's Bowcaster", types: ["Zaalbar", "Upgrade"] },
   { name: "Three Permanent Immunities", types: ["Immunity"] },
+  { name: "100,000 Credits", types: ["Credits"] },
 ];
 bingoList[10] = [
   { name: "Buy Any Medpac for 120 Credits", types: ["Manaan", "Mika", "Serum", "Suvam"] },
@@ -120,7 +120,6 @@ bingoList[10] = [
   { name: "Fully Repair HK-47", types: ["Party", "HK"] },
   { name: "Strand Zaalbar on Kashyyyk", types: ["Kashyyyk","Zaalbar","Party","Chieftain"] },
   { name: "A Droid with Upgrade Class 3", types: ["Character", "HK", "T3", "Party"] },
-  { name: "100,000 Credits", types: ["Credits"] },
 ];
 bingoList[11] = [
   { name: "Defeat Furko Nellis's Tournament Deck", types: ["Pazaak", "Tatooine"] },
