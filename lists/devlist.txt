@@ -160,7 +160,7 @@ bingoList[13] = [
 bingoList[14] = [
   { name: "All Three Force Immunity Feats", types: ["Character", "Immunity"] },  
   { name: "Three Third-Tier Force Powers", types: ["Character"] },
-  { name: "Kill Lashowe, Mekel, and Shaardan", types: ["Korriban", "Tombs"] },
+  { name: "Kill Lashowe, Mekel, and Shaardan", types: ["Korriban", "Redeem", "Tombs"] },
   { name: "Token From Tortured Selkath", types: ["Manaan"] }, 
   { name: "Obtain 7 Complete Area Maps", types: ["Maps"] },
   { name: "Win All 8 Swoop Races", types: ["Swoops", "ManSwoops", "TatSwoops"] },
