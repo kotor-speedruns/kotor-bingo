@@ -1,9 +1,8 @@
-var bingoListVersion = "6.26";
+var bingoListVersion = "6.27";
 var bingoList = [];
 
 bingoList[1] = [
   { name: "Kill Selven", types: ["Taris","TarQuest","Bounty"] },
-  { name: "Fully Upgraded Republic Mod Armor", types: ["Upgrade"] },
   { name: "Rescue Tanis", types: ["Tatooine"] },
   { name: "Czerka Corp. Resource ID", types: ["Kashyyyk"] },
   { name: "Kill the Whimpering Locker", types: ["Manaan"] },
@@ -16,7 +15,7 @@ bingoList[1] = [
 ];
 bingoList[2] = [
   { name: "Blow Up Matrik's Apartment", types: ["Taris", "Bounty"] },
-  { name: "Fully Upgraded Echani Fiber Armor", types: ["Upgrade"] },
+  { name: "20 Net Stealth Skill", types: ["Character"] },
   { name: "Sell Sharina's Wraid Plate", types: ["Tatooine"] },
   { name: "Destroy Droid (Force Power)", types: ["Force power", "Character"] },
   { name: "Bondar Crystal", types: ["Crystal"] },
@@ -28,8 +27,8 @@ bingoList[2] = [
 ];
 bingoList[3] = [
   { name: "Get Dia's Bounty Lifted", types: ["Taris","Bounty"] },
-  { name: "Talk to Samnt", types: ["Dantooine"] },
-  { name: "20 Net Stealth Skill", types: ["Character"] },
+  { name: "Fully Upgraded Republic Mod Armor", types: ["Upgrade"] },
+  { name: "Fully Upgraded Echani Fiber Armor", types: ["Upgrade"] },
   { name: "All 3 Armor Proficiency Feats", types: ["Character", "ArmorProf"] },
   { name: "All 3 Implant Feats", types: ["Character", "Implant"] },
   { name: "Obtain 4 Complete Area Maps", types: ["Maps"] },
@@ -39,6 +38,7 @@ bingoList[3] = [
   { name: "Kill a Rancor", types: ["Rancor"] },  
 ];
 bingoList[4] = [
+  { name: "Talk to Samnt", types: ["Dantooine"] },
   { name: "Echani Dueling Shield", types: ["Armband"] },
   { name: "Firkrann Crystal", types: ["Crystal","Korriban"] },
   { name: "Convict Both Rickard and Handon", types: ["Dantooine","Murder"] },
@@ -47,7 +47,6 @@ bingoList[4] = [
   { name: "Defend the Sandcrawler Miners", types: ["Tatooine"] },
   { name: "Complete \"The Trouble with Gizka\"", types: [] },
   { name: "Escape the Mind Prison", types: ["Riddles"] },
-  { name: "Sith Armor", types: ["Taris", "Disguise"] },
   { name: "Win 4 Fighter Skirmishes", types: [] },
 ];
 bingoList[5] = [
