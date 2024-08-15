@@ -1,4 +1,4 @@
-var bingoListVersion = "6.25";
+var bingoListVersion = "6.26";
 var bingoList = [];
 
 bingoList[1] = [
@@ -105,7 +105,7 @@ bingoList[9] = [
   { name: "Light or Dark Side Mastery", types: ["Alignment", "Mastery", "FP"] },
   { name: "Kill Belaya", types: ["Belaya","Juhani","Party"] },  
   { name: "Master Toughness and Master Conditioning", types: ["Character"] }, 
-  { name: "Fully Upgraded Zaalbar's Bowcaster", types: ["Zaalbar", "Upgrade"] },
+  { name: "Strand Zaalbar on Kashyyyk", types: ["Kashyyyk","Zaalbar","Party","Chieftain"] },
   { name: "Three Permanent Immunities", types: ["Immunity"] },
   { name: "100,000 Credits", types: ["Credits"] },
 ];
@@ -118,7 +118,7 @@ bingoList[10] = [
   { name: "Return Sasha to Dantooine", types: ["Party", "Zaalbar"] },
   { name: "Kiss Bastila", types: ["Party", "Gender"] },
   { name: "Fully Repair HK-47", types: ["Party", "HK"] },
-  { name: "Strand Zaalbar on Kashyyyk", types: ["Kashyyyk","Zaalbar","Party","Chieftain"] },
+  { name: "Fully Upgraded Zaalbar's Bowcaster", types: ["Zaalbar", "Upgrade"] },
   { name: "A Droid with Upgrade Class 3", types: ["Character", "HK", "T3", "Party"] },
 ];
 bingoList[11] = [
@@ -182,7 +182,7 @@ bingoList[15] = [
   { name: "Maximum Permanent Immunities", types: ["Immunity"] },
 ];
 bingoList[16] = [
-  { name: "Complete All 5 Taris Bounty Quests", types: ["Taris", "Bounty"] },
+  { name: "Complete All 5 Taris Bounty Quests", types: ["Taris", "Bounty", "Duel"] },
   { name: "Get Banned from 3 Places", types: ["Banned", "Feud", "Chieftain"] },
   { name: "Level 6 in Two Classes", types: ["Character"] },
   { name: "150 Permanent Maximum Vitality", types: ["Character"] },
@@ -191,26 +191,26 @@ bingoList[16] = [
   { name: "All 3 Great Hunt Journals", types: ["Hunt"] },
   { name: "Complete All 3 Murder Quests", types: ["Murder", "Mastery", "Sunry"] },
   { name: "Kill 4 Terentateks", types: ["Hunt", "Korriban", "Chieftain"] },
-  { name: "All 5 Advanced Droid Weapons", types: ["Tombs"] },
+  { name: "5 Different Advanced Droid Weapons", types: ["Tombs"] },
 ];
 bingoList[17] = [
   { name: "Clear the Hrakert Rift Station", types: ["Manaan", "Clear"] },
   { name: "Clear Davik's Estate", types: ["Taris", "Clear"] },
   { name: "Complete 8 Bounty Quests", types: ["Bounty", "Geno", "QuestNum"] },
   { name: "Complete 3 Major Planetary Quests", types: ["Quests", "TarQuest", "Promised", "Chieftain", "Sunry", "Feud", "Prestige", "History"] },
+  { name: "5 Different Masks", types: ["Masks"] },
   { name: "Fully Upgraded Light and Heavy Exoskeletons", types: ["Upgrade"] },
   { name: "180 Permanent Maximum Force Points", types: ["Character", "FP"] },
   { name: "Complete All 7 Manaan Quests", types: ["Manaan","Quests","ManSwoops","Sunry"] },
   { name: "Complete \"Threat from Xor\"", types: ["Juhani", "Party"] },
   { name: "Raito's Gaderffii", types: ["Tatooine", "History"] },
-  { name: "Give Griff a Tach Gland", types: ["Tatooine", "Griff", "Mission"] },
 ];
 bingoList[18] = [
   { name: "Clear the Sand People Enclave", types: ["Tatooine", "Clear"] },  
   { name: "Luxum Crystal", types: ["Crystal", "Manaan", "Robes"] },
   { name: "Complete All 7 Kashyyyk Quests", types: ["Kashyyyk", "Mandos", "Quests", "Chieftain", "Mastery"] },
   { name: "16 Permanent Points in All Saves", types: ["Character"] },
-  { name: "12 Different Lightsaber Power Crystals", types: ["Crystal"] },
+  { name: "Give Griff a Tach Gland", types: ["Tatooine", "Griff", "Mission"] },
   { name: "Redeem 4 Sith to the Light", types: ["Korriban", "Tombs", "Redeem"] },
   { name: "30 Completed Quests in Journal", types: ["QuestNum", "Quests"] },
   { name: "Kill Hulas", types: ["Geno"] },
@@ -218,7 +218,7 @@ bingoList[18] = [
   { name: "Zaalbar Wielding Bacca's Ceremonial Blade", types: ["Zaalbar","Kashyyyk","Chieftain"] },
 ];
 bingoList[19] = [
-  { name: "Clear the Shadowlands", types: ["Kashyyyk", "Clear"] },
+  { name: "12 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "8 Different Jedi Robes", types: ["Robes"] },
   { name: "Verpine Prototype Shield", types: ["Armband", "Verpine", "Dark", "Leviathan", "Mika"] },
   { name: "ICE Breaker", types: ["Leviathan", "Maps"] },
@@ -231,55 +231,55 @@ bingoList[19] = [
 ];
 bingoList[20] = [
   { name: "Kill 20 Mandalorians", types: ["Mandos"] },
+  { name: "Clear the Shadowlands", types: ["Kashyyyk", "Clear"] },
   { name: "Clear the Sith Academy", types: ["Korriban", "Academy", "Clear"] },
   { name: "Clear the Manaan Sith Base", types: ["Manaan", "Clear"] },
   { name: "Niklos Accuses You of Cheating", types: ["Pazaak"] },
   { name: "Complete All 13 Korriban Quests", types: ["Korriban", "Quests"] },
   { name: "Clear the Prison Block with Party Member", types: ["Leviathan"] },
-  { name: "Kill Saul Karath", types: ["Bosses", "Leviathan"] },
-  { name: "All 4 Disguises", types: ["Leviathan", "Disguise"] },
-  { name: "All 5 Star Maps", types: ["StarMaps"] },
+  { name: "4 Different Disguises", types: ["Leviathan", "Disguise"] },
+  { name: "5 Different Star Map Quest Items", types: ["StarMaps"] },
   { name: "Ship Parts", types: ["StarMaps", "Rancor"] },
 ];
 bingoList[21] = [
-  { name: "Defeat Malak on the Leviathan", types: ["Leviathan"] },
-  { name: "Kill Calo, Davik, Bandon, and Saul", types: ["Leviathan", "Bosses"] },
+  { name: "Kill Saul Karath", types: ["Bosses", "Leviathan"] },
+  { name: "Escape the Leviathan", types: ["Leviathan"] },
+  { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },
   { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
-  { name: "Obtain 10 Complete Area Maps", types: ["Maps"] },
   { name: "Kill The One", types: ["StarMaps", "Rancor"] },
   { name: "Kill Keeper Orsaa", types: ["StarMaps", "Rancor"] },
   { name: "Verpine Zal Alloy Mesh", types: ["Mandos", "Verpine", "StarMaps"] },
-  { name: "All 10 Armbands", types: ["Armband", "Mika", "StarMaps"] },
+  { name: "10 Different Armbands", types: ["Armband", "Mika", "StarMaps"] },
   { name: "Complete 6 Major Planetary Quests", types: ["Quests", "Chieftain", "Sunry", "Feud", "Promised", "Prestige", "History"] },
   { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
 ];
 bingoList[22] = [
-  { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },
+  { name: "Kill Calo, Davik, Bandon, and Saul", types: ["Leviathan", "Bosses"] },
+  { name: "Obtain 10 Complete Area Maps", types: ["Maps"] },
   { name: "Purchase Mika's Entire Inventory", types: ["Credits", "Leviathan", "Mika", "StarMaps"] },
-  { name: "All 14 Medium Armors", types: ["Credits", "Mika"] },
+  { name: "14 Different Medium Armors", types: ["Credits", "Mika"] },
   { name: "Fully Upgraded Rakatan Battle Wand", types: ["Upgrade", "StarMaps"] },
   { name: "7 Different Lightsaber Colors", types: ["Colors", "Thermals", "Credits", "StarMaps"] },
-  { name: "Vacuum Mask", types: ["StarMaps", "Thermals", "Verpine"] },
+  { name: "Vacuum Mask", types: ["StarMaps", "Thermals", "Verpine", "Masks"] },
   { name: "Sapith and Upari Crystals", types: ["Crystal", "StarMaps", "Thermals", "Verpine"] },
   { name: "Kill Jolee and Juhani", types: ["StarMaps", "Dark"] },
-  { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
   { name: "Star Map: Kashyyyk as Revan", types: ["Kashyyyk", "Leviathan", "StarMaps"] },
 ];
 bingoList[23] = [
-  { name: "All 14 Light Armors", types: ["Credits", "Geno"] },
+  { name: "14 Different Light Armors", types: ["Credits", "Geno"] },
   { name: "Maximum Passive Force Point Regeneration", types: ["Regen", "Colors", "Credits", "StarMaps", "Masks", "Thermals"] },
+  { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
   { name: "Clear a Rakatan Settlement", types: ["Clear", "StarMaps"] },
   { name: "Kill 25 Mandalorians", types: ["Mandos", "StarMaps", "Verpine"] },
   { name: "Complete All 18 Taris Quests", types: ["Bounty", "Duel", "Taris", "TarQuest"] },
   { name: "Complete \"Rakatan Research\"", types: ["StarMaps", "Thermals"] },
-  { name: "All 6 Stealth Generators", types: ["Credits", "StarMaps", "Belts"] },
+  { name: "6 Different Stealth Generators", types: ["Credits", "StarMaps", "Belts"] },
   { name: "Squad Recovery Stim", types: ["StarMaps", "Dark"] },
-  { name: "Kill Four Party Members", types: ["Belaya", "Zaalbar", "Mission", "Dark", "StarMaps"] },
   { name: "Force Zaalbar to Kill Mission", types: ["Zaalbar", "Mission", "Dark", "StarMaps"] },
 ];
 bingoList[24] = [
   { name: "7 Different Visors", types: ["Visors", "Geno", "StarMaps"] },
-  { name: "All 9 Verpine Equipments", types: ["Verpine", "Mika", "StarMaps", "Mandos"] },
+  { name: "9 Different Verpine Equipments", types: ["Verpine", "Mika", "StarMaps", "Mandos"] },
   { name: "Defeat Every Pazaak Player Once", types: ["Pazaak"] },
   { name: "Complete \"Canderous\"", types: ["Party", "Canderous", "StarMaps"] },
   { name: "Romance Juhani", types: ["Party", "StarMaps", "Gender", "Juhani", "Belaya"] },
@@ -293,8 +293,8 @@ bingoList[25] = [
   { name: "Get Suvam Tam's Pazaak Discount", types: ["Pazaak", "Suvam"] }, 
   { name: "15 Different Lightsaber Power Crystals", types: ["Crystal", "StarMaps", "Verpine"] },
   { name: "11 Different Jedi Robes", types: ["Robes", "Verpine", "StarMaps", "Dark", "AlignedItem"] },
-  { name: "All 10 Heavy Armors", types: ["StarMaps", "Heavy", "Mika", "Credits"] },
-  { name: "All 12 Gloves", types: ["Gloves", "Mika", "StarMaps", "Thermals", "Verpine"] },
+  { name: "10 Different Heavy Armors", types: ["StarMaps", "Heavy", "Mika", "Credits"] },
+  { name: "12 Different Gloves", types: ["Gloves", "Mika", "StarMaps", "Thermals", "Verpine"] },
   { name: "Clear the Rakatan Temple", types: ["Clear", "Dark", "Verpine", "StarMaps"] },
   { name: "40 Completed Quests in Journal", types: ["Quests", "QuestNum"] },
   { name: "Clear the Leviathan", types: ["Leviathan", "Clear"] }, 
