@@ -92,7 +92,7 @@ bingoList[8] = [
   { name: "All 18 Pazaak Sidedeck Cards", types: ["Pazaak"] }, 
   { name: "100,000 Credits", types: ["Credits"] },
   { name: "Clear the Endar Spire", types: ["Clear"] },
-  { name: "Equip 1 Alignment-Restricted Item", types: ["AlignedItem"] }
+  { name: "Equip 1 Alignment-Restricted Item", types: ["AlignedItem"] },
   { name: "Kill Darth Bandon", types: ["Bosses"] },
   { name: "Opila Crystal", types: ["Crystal", "Opila"] },
   { name: "Carbonite Projector Mark II", types: ["Korriban", "Tombs"] },
@@ -153,7 +153,7 @@ bingoList[13] = [
   { name: "12 Permanent Points in All Saves", types: ["Character"] },
   { name: "Both Holocrons", types: ["Tatooine","Korriban","Family"] },
   { name: "Moisture Vaporators", types: ["Tatooine","HK"] },
-  { name: "Equip 2 Alignment-Restricted Items", types: ["AlignedItem","Hunt","Tombs"] }
+  { name: "Equip 2 Alignment-Restricted Items", types: ["AlignedItem","Hunt","Tombs"] },
   { name: "Defeat Both Defense Droids", types: ["Kashyyyk"] }, 
   { name: "5 Different Visors", types: ["Visors", "Geno"] },
 ];
