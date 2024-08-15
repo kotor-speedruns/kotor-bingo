@@ -11,6 +11,7 @@ bingoList[1] = [
   { name: "Defeat Deadeye Duncan", types: ["Taris", "Duel"] },
   { name: "Persuade a Prospective Sith to Leave", types: ["Korriban"] },
   { name: "Complete \"A Desert Ambush\"", types: ["Tatooine"] },
+  { name: "Rubat Crystal", types: ["Crystal"] },
   { name: "All Skills are Class Skills", types: ["Character"] },
 ];
 bingoList[2] = [
@@ -33,13 +34,13 @@ bingoList[3] = [
   { name: "All 3 Implant Feats", types: ["Character", "Implant"] },
   { name: "Obtain 4 Complete Area Maps", types: ["Maps"] },
   { name: "Kill the Lavin Thugs", types: ["Taris"] },
-  { name: "Rubat Crystal", types: ["Crystal"] },
+  { name: "Damind Crystal", types: ["Crystal"] },
   { name: "Poison Both Yuthura and Uthar", types: ["Korriban"] },
   { name: "Kill a Rancor", types: ["Rancor"] },  
 ];
 bingoList[4] = [
   { name: "Echani Dueling Shield", types: ["Armband"] },
-  { name: "Damind Crystal", types: ["Crystal"] },
+  { name: "Firkrann Crystal", types: ["Crystal","Korriban"] },
   { name: "Convict Both Rickard and Handon", types: ["Dantooine","Murder"] },
   { name: "Free the Mandalorian on Korriban", types: ["Korriban", "Prisoners"] },
   { name: "Heal the Bullied Ithorian", types: ["Taris"] },
@@ -51,7 +52,7 @@ bingoList[4] = [
 ];
 bingoList[5] = [
   { name: "Kill a Shyrack Alpha", types: ["Korriban"] },  
-  { name: "Opila Crystal", types: ["Crystal", "Opila"] },
+  { name: "Nextor Crystal", types: ["Crystal"] },
   { name: "Kill a Hive Kinrath", types: ["Dantooine"] },
   { name: "15 Tach Glands", types: ["Kashyyyk"] },
   { name: "Qel-Droma Robes", types: ["Korriban", "Robes", "Hunt", "AlignedItem"] },
@@ -62,43 +63,44 @@ bingoList[5] = [
   { name: "Kill 1 Terentatek", types: ["Korriban", "Chieftain", "Hunt"] },
 ];
 bingoList[6] = [
+  { name: "Solari Crystal", types: ["Crystal", "Korriban", "Hunt", "AlignedItem"] },
   { name: "Complete \"Pazaak Rules\"", types: ["Pazaak"] },
   { name: "Deactivate the Steam Vents", types: ["Manaan"] },
   { name: "Become Sector Champion on Manaan", types: ["Manaan", "ManSwoops", "Swoops"] },
   { name: "Passive Vitality Regeneration", types: ["Regen", "Implant"] },
   { name: "Passive Force Point Regeneration", types: ["Regen", "Masks", "ArmorProf"] },
-  { name: "Jenruax Crystal", types: ["Crystal"] },
   { name: "5 Different Lightsaber Colors", types: ["Colors"] },
   { name: "Complete \"Sand People\"", types: ["Tatooine"] },
   { name: "Successfully Interrogate the Sith Prisoner", types: ["Manaan"] },
   { name: "Complete \"Honest Debt\"", types: ["Kashyyyk"] },
 ];
 bingoList[7] = [
+  { name: "Two Krayt Dragon Pearls", types: ["Tatooine", "Crystal", "History"] },
   { name: "Complete \"Rakghoul Serum\"", types: ["Taris", "TarQuest", "Serum"] },  
   { name: "Davik's War Suit", types: ["Taris", "Visors", "Bosses"] },
   { name: "150 Racing Bonds", types: ["Tatooine", "Swoops", "TatSwoops"] },
   { name: "Complete \"Sandral-Matale Feud\"", types: ["Dantooine", "Feud"] },
   { name: "Two Weapon Specializations", types: ["Character"] },
   { name: "Kill Kandon Ark", types: ["Taris"] },
-  { name: "Nextor Crystal", types: ["Crystal"] },
   { name: "Purchase a Store's Entire Inventory", types: ["Credits", "Mika"] },
-  { name: "Solari Crystal", types: ["Crystal", "Korriban", "Hunt", "AlignedItem"] },
   { name: "Kill an Albino Kath Hound", types: ["Dantooine"] },
+  { name: "Free 5 Prisoners", types: ["Academy", "Prisoners"] },
 ];
 bingoList[8] = [
   { name: "Free Hudrow", types: ["Taris", "Prisoners"] },
   { name: "Help 3 Taris Bounties Escape", types: ["Bounty", "Taris"] },
   { name: "Clear the Hidden Bek Base", types: ["Clear", "Taris"] },
   { name: "All 18 Pazaak Sidedeck Cards", types: ["Pazaak"] }, 
-  { name: "Eralam Crystal", types: ["Crystal"] },
+  { name: "100,000 Credits", types: ["Credits"] },
   { name: "Clear the Endar Spire", types: ["Clear"] },
-  { name: "Kill Darth Bandon", types: ["Bosses"] },  
+  { name: "Equip 1 Alignment-Restricted Item", types: ["AlignedItem"] }
+  { name: "Kill Darth Bandon", types: ["Bosses"] },
+  { name: "Opila Crystal", types: ["Crystal", "Opila"] },
   { name: "Carbonite Projector Mark II", types: ["Korriban", "Tombs"] },
-  { name: "Firkrann Crystal", types: ["Crystal","Korriban"] },
-  { name: "Free 5 Prisoners", types: ["Academy", "Prisoners"] },
 ];
 bingoList[9] = [
   { name: "Give Motta the Mysterious Box", types: ["Riddles"] },
+  { name: "Jenruax Crystal", types: ["Crystal"] },
   { name: "Fully Upgraded Mission's Vibroblade", types: ["Mission", "Upgrade"] },
   { name: "Kill Kel Algwinn", types: ["Korriban"] }, 
   { name: "Get Banned From Manaan", types: ["Banned", "Manaan"] }, 
@@ -107,14 +109,13 @@ bingoList[9] = [
   { name: "Master Toughness and Master Conditioning", types: ["Character"] }, 
   { name: "Strand Zaalbar on Kashyyyk", types: ["Kashyyyk","Zaalbar","Party","Chieftain"] },
   { name: "Three Permanent Immunities", types: ["Immunity"] },
-  { name: "100,000 Credits", types: ["Credits"] },
 ];
 bingoList[10] = [
   { name: "Buy Any Medpac for 120 Credits", types: ["Manaan", "Mika", "Serum", "Suvam"] },
   { name: "Clear the Taris Sith Base", types: ["Clear", "Taris"] },
-  { name: "Two Krayt Dragon Pearls", types: ["Tatooine", "Crystal"] },
+  { name: "Eralam Crystal", types: ["Crystal"] },
+  { name: "Solve the Light Ring Puzzle", types: ["Korriban", "Tombs"] },
   { name: "Redeem Ajunta Pall's Spirit", types: ["Korriban", "Tombs", "Redeem"] },
-  { name: "8 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "Return Sasha to Dantooine", types: ["Party", "Zaalbar"] },
   { name: "Kiss Bastila", types: ["Party", "Gender"] },
   { name: "Fully Repair HK-47", types: ["Party", "HK"] },
@@ -128,10 +129,10 @@ bingoList[11] = [
   { name: "GenoHaradan Blaster", types: ["Dantooine", "Geno", "Blasters"] },  
   { name: "120 Permanent Maximum Vitality", types: ["Character"] },
   { name: "Defeat Twitch", types: ["Taris", "Duel", "Bounty"] },
-  { name: "Solve the Light Ring Puzzle", types: ["Korriban", "Tombs"] },
+  { name: "8 Different Lightsaber Power Crystals", types: ["Crystal"] },
   { name: "10 Thermal Detonators", types: ["Thermals", "Mika", "Dark"] },
   { name: "All Master-Level Blaster Feats", types: ["Character"] },
-  { name: "Phond Crystal", types: ["Crystal", "Korriban", "Tombs"] },
+  { name: "Circlet of Saresh", types: ["Kashyyyk","Hunt","AlignedItem"] },
 ];
 bingoList[12] = [
   { name: "GenoHaradan Power Gloves", types: ["Manaan", "Geno", "Gloves"] },  
@@ -140,7 +141,7 @@ bingoList[12] = [
   { name: "Fully Upgraded Bendak's Blaster", types: ["Taris", "Duel", "Bounty", "Upgrade"] },
   { name: "Master Caution, Empathy, and Gear Head", types: ["Character"] },
   { name: "150 Permanent Maximum Force Points", types: ["Character", "FP"] },
-  { name: "Circlet of Saresh", types: ["Kashyyyk","Hunt","AlignedItem"] },
+  { name: "Redeem 2 Sith to the Light", types: ["Redeem", "Korriban", "Family", "Tombs"] },
   { name: "Naga Sadow's Poison Blade", types: ["Korriban","Tombs"] },
   { name: "Passive Vitality and Force Point Regeneration", types: ["Masks", "Regen", "Implant", "ArmorProf"] },
   { name: "Complete 5 Bounty Quests", types: ["Bounty", "Geno", "QuestNum"] },
@@ -148,20 +149,20 @@ bingoList[12] = [
 bingoList[13] = [
   { name: "Complete \"The Promised Land\"", types: ["Taris", "Promised", "TarQuest"] },
   { name: "Clear the Vulkar Base", types: ["Taris", "Clear"] },
-  { name: "Redeem 2 Sith to the Light", types: ["Redeem", "Korriban", "Family", "Tombs"] },
+  { name: "Kill Jorak Uln", types: ["Korriban", "Tombs", "Redeem", "Opila"] },
   { name: "Complete \"Mandalorian Raiders\"", types: ["Dantooine", "Mandos"] },
   { name: "12 Permanent Points in All Saves", types: ["Character"] },
-  { name: "All Three Force Immunity Feats", types: ["Character", "Immunity"] },  
   { name: "Both Holocrons", types: ["Tatooine","Korriban","Family"] },
   { name: "Moisture Vaporators", types: ["Tatooine","HK"] },
+  { name: "Equip 2 Alignment-Restricted Items", types: ["AlignedItem","Hunt","Tombs"] }
   { name: "Defeat Both Defense Droids", types: ["Kashyyyk"] }, 
   { name: "5 Different Visors", types: ["Visors", "Geno"] },
 ];
 bingoList[14] = [
+  { name: "All Three Force Immunity Feats", types: ["Character", "Immunity"] },  
   { name: "Three Third-Tier Force Powers", types: ["Character"] },
-  { name: "Kill Jorak Uln", types: ["Korriban", "Tombs", "Redeem", "Opila"] },
+  { name: "Kill Lashowe, Mekel, and Shaardan", types: ["Korriban", "Tombs"] },
   { name: "Token From Tortured Selkath", types: ["Manaan"] }, 
-  { name: "Install Freyyr as Chieftain", types: ["Kashyyyk", "Party", "Chieftain"] },
   { name: "Obtain 7 Complete Area Maps", types: ["Maps"] },
   { name: "Win All 8 Swoop Races", types: ["Swoops", "ManSwoops", "TatSwoops"] },
   { name: "Kill Griff", types: ["Mission", "Griff", "Tatooine", "Party", "Family"] },
@@ -178,7 +179,7 @@ bingoList[15] = [
   { name: "Free 10 Prisoners", types: ["Academy", "Prisoners"] },
   { name: "All 4 Sith Lord Artifacts", types: ["Tombs", "Korriban", "AlignedItem"] },
   { name: "Kill 12 Mandalorians", types: ["Mandos"] },
-  { name: "Have Sunry Declared Innocent", types: ["Kashyyyk","Manaan","Murder","Party","Sunry","Jolee"] },
+  { name: "Install Freyyr as Chieftain", types: ["Kashyyyk", "Party", "Chieftain"] },
   { name: "Maximum Permanent Immunities", types: ["Immunity"] },
 ];
 bingoList[16] = [
@@ -187,7 +188,7 @@ bingoList[16] = [
   { name: "Level 6 in Two Classes", types: ["Character"] },
   { name: "150 Permanent Maximum Vitality", types: ["Character"] },
   { name: "Complete All 8 Dantooine Quests", types: ["Dantooine", "Mandos", "Quests"] },
-  { name: "Fully Upgraded Baragwin Assault Blade", types: ["Upgrade"] },
+  { name: "Have Sunry Declared Innocent", types: ["Kashyyyk","Manaan","Murder","Party","Sunry","Jolee"] },
   { name: "All 3 Great Hunt Journals", types: ["Hunt"] },
   { name: "Complete All 3 Murder Quests", types: ["Murder", "Mastery", "Sunry"] },
   { name: "Kill 4 Terentateks", types: ["Hunt", "Korriban", "Chieftain"] },
@@ -198,7 +199,7 @@ bingoList[17] = [
   { name: "Clear Davik's Estate", types: ["Taris", "Clear"] },
   { name: "Complete 8 Bounty Quests", types: ["Bounty", "Geno", "QuestNum"] },
   { name: "Complete 3 Major Planetary Quests", types: ["Quests", "TarQuest", "Promised", "Chieftain", "Sunry", "Feud", "Prestige", "History"] },
-  { name: "5 Different Masks", types: ["Masks"] },
+  { name: "Fully Upgraded Baragwin Assault Blade", types: ["Upgrade"] },
   { name: "Fully Upgraded Light and Heavy Exoskeletons", types: ["Upgrade"] },
   { name: "180 Permanent Maximum Force Points", types: ["Character", "FP"] },
   { name: "Complete All 7 Manaan Quests", types: ["Manaan","Quests","ManSwoops","Sunry"] },
@@ -213,7 +214,7 @@ bingoList[18] = [
   { name: "Give Griff a Tach Gland", types: ["Tatooine", "Griff", "Mission"] },
   { name: "Redeem 4 Sith to the Light", types: ["Korriban", "Tombs", "Redeem"] },
   { name: "30 Completed Quests in Journal", types: ["QuestNum", "Quests"] },
-  { name: "Kill Hulas", types: ["Geno"] },
+  { name: "5 Different Masks", types: ["Masks"] },
   { name: "Four Different Deadly Mines", types: ["Character"] },
   { name: "Zaalbar Wielding Bacca's Ceremonial Blade", types: ["Zaalbar","Kashyyyk","Chieftain"] },
 ];
@@ -222,8 +223,8 @@ bingoList[19] = [
   { name: "8 Different Jedi Robes", types: ["Robes"] },
   { name: "Verpine Prototype Shield", types: ["Armband", "Verpine", "Dark", "Leviathan", "Mika"] },
   { name: "ICE Breaker", types: ["Leviathan", "Maps"] },
-  { name: "Five Alignment-Restricted Items", types: ["Tombs", "AlignedItem"] },
-  { name: "Three Light Alignment-Restricted Items", types: ["AlignedItem"] },
+  { name: "Kill Hulas", types: ["Geno"] },
+  { name: "Equip 3 Alignment-Restricted Items", types: ["AlignedItem","Hunt","Tombs"] },
   { name: "Complete All 11 Tatooine Quests", types: ["Tatooine", "Quests", "TatSwoops"] },
   { name: "10 Prestige Points", types: ["Korriban", "Prestige"] },
   { name: "Complete All 4 Minigame Quests", types: ["Duel", "Swoops", "Pazaak"] },
