@@ -237,12 +237,12 @@ bingoList[20] = [
   { name: "Niklos Accuses You of Cheating", types: ["Pazaak"] },
   { name: "Complete All 13 Korriban Quests", types: ["Korriban", "Quests"] },
   { name: "5 Different Star Map Quest Items", types: ["StarMaps"] },
-  { name: "Use T3 to Clear the Prison Block", types: ["Leviathan", "T3"] },
+  { name: "Escape the Leviathan", types: ["Leviathan"] },
   { name: "4 Different Disguises", types: ["Leviathan", "Disguise"] },
   { name: "Saul Karath's Sith Assassin Pistol", types: ["Bosses", "Leviathan"] },
 ];
 bingoList[21] = [
-  { name: "Escape the Leviathan", types: ["Leviathan"] },
+  { name: "Use T3 to Clear the Prison Block", types: ["Leviathan", "T3"] },
   { name: "Kill Davik, Calo, Bandon, and Saul", types: ["Leviathan", "Bosses"] },
   { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },
   { name: "Ship Parts", types: ["StarMaps", "Rancor"] },
