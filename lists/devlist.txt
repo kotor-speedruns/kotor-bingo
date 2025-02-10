@@ -222,7 +222,7 @@ bingoList[19] = [
   { name: "8 Different Jedi Robes", types: ["Robes"] },
   { name: "Verpine Prototype Shield", types: ["Armband", "Verpine", "Dark", "Leviathan", "Mika"] },
   { name: "ICE Breaker", types: ["Leviathan", "Maps"] },
-  { name: "GenoHaradan Mesh Armor", types: ["Geno"] },
+  { name: "Hulas's GenoHaradan Mesh Armor", types: ["Geno"] },
   { name: "Equip 3 Alignment-Restricted Items", types: ["AlignedItem", "Hunt", "Tombs"] },
   { name: "Complete All 11 Tatooine Quests", types: ["Tatooine", "Quests", "TatSwoops"] },
   { name: "10 Prestige Points", types: ["Korriban", "Prestige"] },
