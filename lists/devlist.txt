@@ -1,4 +1,4 @@
-var bingoListVersion = "6.29";
+var bingoListVersion = "6.30";
 var bingoList = [];
 
 bingoList[1] = [
@@ -81,7 +81,7 @@ bingoList[7] = [
   { name: "Complete \"Sandral-Matale Feud\"", types: ["Dantooine", "Feud"] },
   { name: "Two Weapon Specializations", types: ["Character"] },
   { name: "Kill Kandon Ark", types: ["Taris"] },
-  { name: "Purchase a Store's Entire Inventory", types: ["Credits", "Mika"] },
+  { name: "100,000 Credits", types: ["Credits"] },
   { name: "Kill the Albino Kath Hound", types: ["Dantooine"] },
   { name: "Free 5 Prisoners", types: ["Academy", "Prisoners"] },
 ];
@@ -90,20 +90,20 @@ bingoList[8] = [
   { name: "Help 3 Taris Bounties Escape", types: ["Bounty", "Taris"] },
   { name: "Clear the Hidden Bek Base", types: ["Clear", "Taris"] },
   { name: "All 18 Pazaak Sidedeck Cards", types: ["Pazaak"] }, 
-  { name: "100,000 Credits", types: ["Credits"] },
   { name: "Clear the Endar Spire", types: ["Clear"] },
   { name: "Equip 1 Alignment-Restricted Item", types: ["AlignedItem"] },
   { name: "Darth Bandon's Fiber Armor", types: ["Bosses"] },
   { name: "Opila Crystal", types: ["Crystal", "Opila"] },
   { name: "Carbonite Projector Mark II", types: ["Korriban", "Tombs"] },
+  { name: "Give Motta the Mysterious Box", types: ["Riddles"] },
 ];
 bingoList[9] = [
-  { name: "Give Motta the Mysterious Box", types: ["Riddles"] },
   { name: "Jenruax Crystal", types: ["Crystal"] },
   { name: "Fully Upgraded Mission's Vibroblade", types: ["Mission", "Upgrade"] },
   { name: "Kill Kel Algwinn", types: ["Korriban"] }, 
   { name: "Get Banned From Manaan", types: ["Banned", "Manaan"] }, 
   { name: "Light or Dark Side Mastery", types: ["Alignment", "Mastery", "FP"] },
+  { name: "One Droid with Upgrade Class 3", types: ["HK", "T3"] },
   { name: "Kill Belaya", types: ["Belaya", "Juhani", "Party"] },  
   { name: "Master Toughness and Master Conditioning", types: ["Character"] }, 
   { name: "Strand Zaalbar on Kashyyyk", types: ["Kashyyyk", "Zaalbar", "Party", "Chieftain"] },
