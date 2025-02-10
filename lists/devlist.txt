@@ -1,4 +1,4 @@
-var bingoListVersion = "6.28";
+var bingoListVersion = "6.29";
 var bingoList = [];
 
 bingoList[1] = [
@@ -16,12 +16,12 @@ bingoList[1] = [
 bingoList[2] = [
   { name: "Blow Up Matrik's Apartment", types: ["Taris", "Bounty"] },
   { name: "20 Net Stealth Skill", types: ["Character"] },
-  { name: "Sell Sharina's Wraid Plate", types: ["Tatooine"] },
+  { name: "Sell Sharina's Wraid Plate", types: ["Tatooine", "Creature"] },
   { name: "Destroy Droid (Force Power)", types: ["Force power", "Character"] },
   { name: "Bondar Crystal", types: ["Crystal"] },
   { name: "Exactly 0 Credits", types: ["Credits"] },
   { name: "Attend Yun Genda's Party", types: ["Disguise", "Taris", "TarQuest", "Gender"] },
-  { name: "Kill Calo Nord", types: ["Bosses", "Heavy"] },
+  { name: "Calo Nord's Battle Armor", types: ["Bosses", "Heavy"] },
   { name: "Sith Medallion", types: ["Korriban"] },
   { name: "Help with Lyn Sekla's Audition", types: ["Taris"] },
 ];
@@ -50,10 +50,10 @@ bingoList[4] = [
   { name: "Win 4 Fighter Skirmishes", types: [] },
 ];
 bingoList[5] = [
-  { name: "Kill a Shyrack Alpha", types: ["Korriban"] },  
+  { name: "Kill the Shyrack Alpha", types: ["Korriban"] },  
   { name: "Nextor Crystal", types: ["Crystal"] },
-  { name: "Kill a Hive Kinrath", types: ["Dantooine"] },
-  { name: "15 Tach Glands", types: ["Kashyyyk"] },
+  { name: "Kill the Hive Kinrath", types: ["Dantooine"] },
+  { name: "15 Tach Glands", types: ["Kashyyyk", "Creature"] },
   { name: "Qel-Droma Robes", types: ["Korriban", "Robes", "Hunt", "AlignedItem"] },
   { name: "Recruit HK-47", types: ["Party", "Tatooine", "HK"] },  
   { name: "Improved Scoundrel's Luck", types: ["Character"] },
@@ -74,7 +74,7 @@ bingoList[6] = [
   { name: "Complete \"Honest Debt\"", types: ["Kashyyyk"] },
 ];
 bingoList[7] = [
-  { name: "Two Krayt Dragon Pearls", types: ["Tatooine", "Crystal", "History"] },
+  { name: "Two Krayt Dragon Pearls", types: ["Tatooine", "Crystal", "Creature", "History"] },
   { name: "Complete \"Rakghoul Serum\"", types: ["Taris", "TarQuest", "Serum"] },  
   { name: "Davik's War Suit", types: ["Taris", "Visors", "Bosses"] },
   { name: "150 Racing Bonds", types: ["Tatooine", "Swoops", "TatSwoops"] },
@@ -82,7 +82,7 @@ bingoList[7] = [
   { name: "Two Weapon Specializations", types: ["Character"] },
   { name: "Kill Kandon Ark", types: ["Taris"] },
   { name: "Purchase a Store's Entire Inventory", types: ["Credits", "Mika"] },
-  { name: "Kill an Albino Kath Hound", types: ["Dantooine"] },
+  { name: "Kill the Albino Kath Hound", types: ["Dantooine"] },
   { name: "Free 5 Prisoners", types: ["Academy", "Prisoners"] },
 ];
 bingoList[8] = [
@@ -93,7 +93,7 @@ bingoList[8] = [
   { name: "100,000 Credits", types: ["Credits"] },
   { name: "Clear the Endar Spire", types: ["Clear"] },
   { name: "Equip 1 Alignment-Restricted Item", types: ["AlignedItem"] },
-  { name: "Kill Darth Bandon", types: ["Bosses"] },
+  { name: "Darth Bandon's Fiber Armor", types: ["Bosses"] },
   { name: "Opila Crystal", types: ["Crystal", "Opila"] },
   { name: "Carbonite Projector Mark II", types: ["Korriban", "Tombs"] },
 ];
@@ -119,7 +119,7 @@ bingoList[10] = [
   { name: "Kiss Bastila", types: ["Party", "Gender"] },
   { name: "Fully Repair HK-47", types: ["Party", "HK"] },
   { name: "Fully Upgraded Zaalbar's Bowcaster", types: ["Zaalbar", "Upgrade"] },
-  { name: "A Droid with Upgrade Class 3", types: ["Character", "HK", "T3", "Party"] },
+  { name: "One of each Creature Loot", types: ["Creature", "Kashyyyk", "Tatooine"] },
 ];
 bingoList[11] = [
   { name: "Defeat Furko Nellis's Tournament Deck", types: ["Pazaak", "Tatooine"] },
@@ -222,7 +222,7 @@ bingoList[19] = [
   { name: "8 Different Jedi Robes", types: ["Robes"] },
   { name: "Verpine Prototype Shield", types: ["Armband", "Verpine", "Dark", "Leviathan", "Mika"] },
   { name: "ICE Breaker", types: ["Leviathan", "Maps"] },
-  { name: "Kill Hulas", types: ["Geno"] },
+  { name: "GenoHaradan Mesh Armor", types: ["Geno"] },
   { name: "Equip 3 Alignment-Restricted Items", types: ["AlignedItem", "Hunt", "Tombs"] },
   { name: "Complete All 11 Tatooine Quests", types: ["Tatooine", "Quests", "TatSwoops"] },
   { name: "10 Prestige Points", types: ["Korriban", "Prestige"] },
@@ -237,9 +237,9 @@ bingoList[20] = [
   { name: "Niklos Accuses You of Cheating", types: ["Pazaak"] },
   { name: "Complete All 13 Korriban Quests", types: ["Korriban", "Quests"] },
   { name: "5 Different Star Map Quest Items", types: ["StarMaps"] },
-  { name: "Clear the Prison Block with Party Member", types: ["Leviathan"] },
+  { name: "Use T3 to Clear the Prison Block", types: ["Leviathan", "T3"] },
   { name: "4 Different Disguises", types: ["Leviathan", "Disguise"] },
-  { name: "Kill Saul Karath", types: ["Bosses", "Leviathan"] },
+  { name: "Saul Karath's Sith Assassin Pistol", types: ["Bosses", "Leviathan"] },
 ];
 bingoList[21] = [
   { name: "Escape the Leviathan", types: ["Leviathan"] },
