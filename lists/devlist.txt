@@ -26,7 +26,7 @@ bingoList[2] = [
   { name: "Help with Lyn Sekla's Audition", types: ["Taris"] },
 ];
 bingoList[3] = [
-  { name: "Get Dia's Bounty Lifted", types: ["Taris", "Bounty"] },
+  { name: "Tell Dia Her Bounty Is Lifted", types: ["Taris", "Bounty"] },
   { name: "Fully Upgraded Republic Mod Armor", types: ["Upgrade"] },
   { name: "Fully Upgraded Echani Fiber Armor", types: ["Upgrade"] },
   { name: "All 3 Armor Proficiency Feats", types: ["Character", "ArmorProf"] },
@@ -239,7 +239,7 @@ bingoList[20] = [
   { name: "5 Different Star Map Quest Items", types: ["StarMaps"] },
   { name: "Escape the Leviathan", types: ["Leviathan"] },
   { name: "4 Different Disguises", types: ["Leviathan", "Disguise"] },
-  { name: "Saul Karath's Sith Assassin Pistol", types: ["Bosses", "Leviathan"] },
+  { name: "Saul Karath's Sith Assassin Pistol", types: ["Bosses", "Armband", "Leviathan"] },
 ];
 bingoList[21] = [
   { name: "Use T3 to Clear the Prison Block", types: ["Leviathan", "T3"] },
@@ -250,7 +250,7 @@ bingoList[21] = [
   { name: "Kill The One", types: ["StarMaps", "Rancor"] },
   { name: "Kill Keeper Orsaa", types: ["StarMaps", "Rancor"] },
   { name: "Verpine Zal Alloy Mesh", types: ["Mandos", "Verpine", "StarMaps"] },
-  { name: "10 Different Armbands", types: ["Armband", "Bosses", "Mika", "StarMaps"] },
+  { name: "10 Different Armbands", types: ["Armband", "Mika", "StarMaps"] },
   { name: "Complete 6 Major Planetary Quests", types: ["Quests", "Chieftain", "Sunry", "Feud", "Promised", "Prestige", "History"] },
 ];
 bingoList[22] = [
