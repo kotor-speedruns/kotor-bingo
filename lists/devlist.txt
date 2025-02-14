@@ -54,7 +54,7 @@ bingoList[5] = [
   { name: "Nextor Crystal", types: ["Crystal"] },
   { name: "Kill the Hive Kinrath", types: ["Dantooine"] },
   { name: "15 Tach Glands", types: ["Kashyyyk", "Creature"] },
-  { name: "Qel-Droma Robes", types: ["Korriban", "Robes", "Hunt", "AlignedItem"] },
+  { name: "Qel-Droma Robes", types: ["Korriban", "Qel-Droma", "Hunt", "AlignedItem"] },
   { name: "Recruit HK-47", types: ["Party", "Tatooine", "HK"] },  
   { name: "Improved Scoundrel's Luck", types: ["Character"] },
   { name: "Uncanny Dodge 2", types: ["Character"] },
@@ -219,7 +219,7 @@ bingoList[18] = [
 ];
 bingoList[19] = [
   { name: "12 Different Lightsaber Power Crystals", types: ["Crystal"] },
-  { name: "8 Different Jedi Robes", types: ["Robes"] },
+  { name: "8 Different Jedi Robes", types: ["Robes", "Qel-Droma"] },
   { name: "Verpine Prototype Shield", types: ["Armband", "Verpine", "Dark", "Leviathan", "Mika"] },
   { name: "ICE Breaker", types: ["Leviathan", "Maps"] },
   { name: "Hulas's GenoHaradan Mesh Armor", types: ["Geno"] },
@@ -292,7 +292,7 @@ bingoList[24] = [
 bingoList[25] = [
   { name: "Get Suvam Tam's Pazaak Discount", types: ["Pazaak", "Suvam"] }, 
   { name: "15 Different Lightsaber Power Crystals", types: ["Crystal", "StarMaps", "Verpine"] },
-  { name: "11 Different Jedi Robes", types: ["Robes", "Verpine", "StarMaps", "Dark", "AlignedItem"] },
+  { name: "11 Different Jedi Robes", types: ["Robes", "Qel-Droma", "Verpine", "StarMaps", "Dark", "AlignedItem"] },
   { name: "10 Different Heavy Armors", types: ["StarMaps", "Heavy", "Mika", "Credits"] },
   { name: "12 Different Gloves", types: ["Gloves", "Mika", "StarMaps", "Thermals", "Verpine"] },
   { name: "Clear the Rakatan Temple", types: ["Clear", "Dark", "Verpine", "StarMaps"] },
