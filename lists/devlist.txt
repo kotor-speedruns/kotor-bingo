@@ -1,4 +1,4 @@
-var bingoListVersion = "6.31";
+var bingoListVersion = "6.32";
 var bingoList = [];
 
 bingoList[1] = [
@@ -267,6 +267,7 @@ bingoList[22] = [
 ];
 bingoList[23] = [
   { name: "Free 15 Prisoners", types: ["Academy", "Prisoners"] },
+  { name: "10 Different Jedi Robes", types: ["Robes", "Qel-Droma", "Verpine", "StarMaps", "Dark", "AlignedItem"] },
   { name: "14 Different Light Armors", types: ["Credits", "Geno"] },
   { name: "Maximum Passive Force Point Regeneration", types: ["Regen", "Colors", "Credits", "StarMaps", "Masks", "Thermals"] },
   { name: "Reach the Star Forge", types: ["StarMaps", "Dark"] },
@@ -275,7 +276,6 @@ bingoList[23] = [
   { name: "Complete All 18 Taris Quests", types: ["Bounty", "Duel", "Taris", "TarQuest"] },
   { name: "Complete \"Rakatan Research\"", types: ["StarMaps", "Thermals"] },
   { name: "Squad Recovery Stim", types: ["StarMaps", "Dark"] },
-  { name: "Force Zaalbar to Kill Mission", types: ["Zaalbar", "Mission", "Dark", "StarMaps"] },
 ];
 bingoList[24] = [
   { name: "7 Different Visors", types: ["Visors", "Geno", "StarMaps"] },
@@ -287,12 +287,12 @@ bingoList[24] = [
   { name: "Kill Bastila", types: ["StarMaps"] },
   { name: "Darth Revan's Robes", types: ["AlignedItem", "StarMaps", "Dark"] },
   { name: "Star Forge Robes", types: ["AlignedItem", "StarMaps"] },
-  { name: "Create Any Type of Forge Droid", types: ["StarMaps"] },
+  { name: "Force Zaalbar to Kill Mission", types: ["Zaalbar", "Mission", "Dark", "StarMaps"] },
 ];
 bingoList[25] = [
   { name: "Get Suvam Tam's Pazaak Discount", types: ["Pazaak", "Suvam"] }, 
   { name: "15 Different Lightsaber Power Crystals", types: ["Crystal", "StarMaps", "Verpine"] },
-  { name: "11 Different Jedi Robes", types: ["Robes", "Qel-Droma", "Verpine", "StarMaps", "Dark", "AlignedItem"] },
+  { name: "Create Any Type of Forge Droid", types: ["StarMaps"] },
   { name: "10 Different Heavy Armors", types: ["StarMaps", "Heavy", "Mika", "Credits"] },
   { name: "12 Different Gloves", types: ["Gloves", "Mika", "StarMaps", "Thermals", "Verpine"] },
   { name: "Clear the Rakatan Temple", types: ["Clear", "Dark", "Verpine", "StarMaps"] },
