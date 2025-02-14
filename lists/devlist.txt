@@ -243,7 +243,7 @@ bingoList[20] = [
 ];
 bingoList[21] = [
   { name: "Use T3 to Clear the Prison Block", types: ["Leviathan", "T3"] },
-  { name: "All 4 Equipments from Davik, Calo, Bandon, and Saul", types: ["Leviathan", "Bosses"] },
+  { name: "Loot from Davik, Calo, Bandon, and Saul", types: ["Leviathan", "Bosses"] },
   { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },
   { name: "Ship Parts", types: ["StarMaps", "Rancor"] },
   { name: "Kill the Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
