@@ -250,7 +250,7 @@ bingoList[21] = [
   { name: "Kill The One", types: ["StarMaps", "Rancor"] },
   { name: "Kill Keeper Orsaa", types: ["StarMaps", "Rancor"] },
   { name: "Verpine Zal Alloy Mesh", types: ["Mandos", "Verpine", "StarMaps"] },
-  { name: "10 Different Armbands", types: ["Armband", "Mika", "StarMaps"] },
+  { name: "10 Different Armbands", types: ["Armband", "Bosses", "Mika", "StarMaps"] },
   { name: "Complete 6 Major Planetary Quests", types: ["Quests", "Chieftain", "Sunry", "Feud", "Promised", "Prestige", "History"] },
 ];
 bingoList[22] = [
