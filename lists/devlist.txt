@@ -15,7 +15,7 @@ bingoList[1] = [
 ];
 bingoList[2] = [
   { name: "Blow Up Matrik's Apartment", types: ["Taris", "Bounty"] },
-  { name: "20 Net Stealth Skill", types: ["Character"] },
+  { name: "Complete \"The Trouble with Gizka\"", types: [] },
   { name: "Sell Sharina's Wraid Plate", types: ["Tatooine", "Creature"] },
   { name: "Destroy Droid (Force Power)", types: ["Force power", "Character"] },
   { name: "Bondar Crystal", types: ["Crystal"] },
@@ -29,9 +29,9 @@ bingoList[3] = [
   { name: "Tell Dia Her Bounty Is Lifted", types: ["Taris", "Bounty"] },
   { name: "Fully Upgraded Republic Mod Armor", types: ["Upgrade"] },
   { name: "Fully Upgraded Echani Fiber Armor", types: ["Upgrade"] },
+  { name: "25 Net Stealth Skill", types: ["Character"] },
   { name: "All 3 Armor Proficiency Feats", types: ["Character", "ArmorProf"] },
   { name: "All 3 Implant Feats", types: ["Character", "Implant"] },
-  { name: "Obtain 4 Complete Area Maps", types: ["Maps"] },
   { name: "Kill the Lavin Thugs", types: ["Taris"] },
   { name: "Damind Crystal", types: ["Crystal"] },
   { name: "Poison Both Yuthura and Uthar", types: ["Korriban"] },
@@ -45,7 +45,7 @@ bingoList[4] = [
   { name: "Free the Mandalorian on Korriban", types: ["Korriban", "Prisoners"] },
   { name: "Heal the Bullied Ithorian", types: ["Taris"] },
   { name: "Defend the Sandcrawler Miners", types: ["Tatooine"] },
-  { name: "Complete \"The Trouble with Gizka\"", types: [] },
+  { name: "Obtain 4 Complete Area Maps", types: ["Maps"] },
   { name: "Escape the Mind Prison", types: ["Riddles"] },
   { name: "Win 4 Fighter Skirmishes", types: [] },
 ];
