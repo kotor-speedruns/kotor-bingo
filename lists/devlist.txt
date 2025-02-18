@@ -194,9 +194,9 @@ bingoList[16] = [
   { name: "5 Different Advanced Droid Weapons", types: ["Tombs"] },
 ];
 bingoList[17] = [
-  { name: "Clear the Hrakert Rift Station", types: ["Manaan", "Clear"] },
+  { name: "Give Griff a Tach Gland", types: ["Tatooine", "Griff", "Mission"] },
+  { name: "Zaalbar Wielding Bacca's Ceremonial Blade", types: ["Zaalbar", "Kashyyyk", "Chieftain"] },
   { name: "Clear Davik's Estate", types: ["Taris", "Clear"] },
-  { name: "Complete 8 Bounty Quests", types: ["Bounty", "Geno", "QuestNum"] },
   { name: "Complete 3 Major Planetary Quests", types: ["Quests", "TarQuest", "Promised", "Chieftain", "Sunry", "Feud", "Prestige", "History"] },
   { name: "Fully Upgraded Baragwin Assault Blade", types: ["Upgrade"] },
   { name: "Fully Upgraded Light and Heavy Exoskeletons", types: ["Upgrade"] },
@@ -210,12 +210,12 @@ bingoList[18] = [
   { name: "Luxum Crystal", types: ["Crystal", "Manaan", "Robes"] },
   { name: "Complete All 7 Kashyyyk Quests", types: ["Kashyyyk", "Mandos", "Quests", "Chieftain", "Mastery"] },
   { name: "16 Permanent Points in All Saves", types: ["Character"] },
-  { name: "Give Griff a Tach Gland", types: ["Tatooine", "Griff", "Mission"] },
+  { name: "Complete 8 Bounty Quests", types: ["Bounty", "Geno", "QuestNum"] },
   { name: "Redeem 4 Sith to the Light", types: ["Korriban", "Tombs", "Redeem"] },
   { name: "30 Completed Quests in Journal", types: ["QuestNum", "Quests"] },
   { name: "5 Different Masks", types: ["Masks"] },
   { name: "Four Different Deadly Mines", types: ["Character"] },
-  { name: "Zaalbar Wielding Bacca's Ceremonial Blade", types: ["Zaalbar", "Kashyyyk", "Chieftain"] },
+  { name: "Complete All 4 Minigame Quests", types: ["Duel", "Swoops", "Pazaak"] },
 ];
 bingoList[19] = [
   { name: "12 Different Lightsaber Power Crystals", types: ["Crystal"] },
@@ -226,11 +226,10 @@ bingoList[19] = [
   { name: "Equip 3 Alignment-Restricted Items", types: ["AlignedItem", "Hunt", "Tombs"] },
   { name: "Complete All 11 Tatooine Quests", types: ["Tatooine", "Quests", "TatSwoops"] },
   { name: "10 Prestige Points", types: ["Korriban", "Prestige"] },
-  { name: "Complete All 4 Minigame Quests", types: ["Duel", "Swoops", "Pazaak"] },
+  { name: "Kill 20 Mandalorians", types: ["Mandos"] },
   { name: "Complete All 4 Party Family Quests", types: ["Party", "Mission", "Zaalbar", "Family"] },
 ];
 bingoList[20] = [
-  { name: "Kill 20 Mandalorians", types: ["Mandos"] },
   { name: "Clear the Shadowlands", types: ["Kashyyyk", "Clear"] },
   { name: "Clear the Sith Academy", types: ["Korriban", "Academy", "Clear"] },
   { name: "Clear the Manaan Sith Base", types: ["Manaan", "Clear"] },
@@ -238,14 +237,15 @@ bingoList[20] = [
   { name: "Complete All 13 Korriban Quests", types: ["Korriban", "Quests"] },
   { name: "5 Different Star Map Quest Items", types: ["StarMaps"] },
   { name: "Escape the Leviathan", types: ["Leviathan"] },
+  { name: "Ship Parts", types: ["StarMaps", "Rancor"] },
   { name: "4 Different Disguises", types: ["Leviathan", "Disguise"] },
   { name: "Saul Karath's Sith Assassin Pistol", types: ["Bosses", "Armband", "Leviathan"] },
 ];
 bingoList[21] = [
   { name: "Use T3 to Clear the Prison Block", types: ["Leviathan", "T3"] },
+  { name: "Use HK to Clear the Prison Block", types: ["Leviathan", "HK"] },
   { name: "Loot from Davik, Calo, Bandon, and Saul", types: ["Leviathan", "Bosses"] },
   { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },
-  { name: "Ship Parts", types: ["StarMaps", "Rancor"] },
   { name: "Kill All 7 Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
   { name: "The One's Vibroswords", types: ["StarMaps", "Rancor"] },
   { name: "Keeper Orsaa's Ancient Tome", types: ["StarMaps", "Rancor"] },
