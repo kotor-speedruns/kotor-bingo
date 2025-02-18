@@ -214,7 +214,7 @@ bingoList[18] = [
   { name: "Redeem 4 Sith to the Light", types: ["Korriban", "Tombs", "Redeem"] },
   { name: "30 Completed Quests in Journal", types: ["QuestNum", "Quests"] },
   { name: "5 Different Masks", types: ["Masks"] },
-  { name: "Four Different Deadly Mines", types: ["Character"] },
+  { name: "4 Different Deadly Mines", types: ["Character"] },
   { name: "Complete All 4 Minigame Quests", types: ["Duel", "Swoops", "Pazaak"] },
 ];
 bingoList[19] = [
