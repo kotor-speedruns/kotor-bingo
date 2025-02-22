@@ -116,7 +116,7 @@ bingoList[10] = [
   { name: "Solve the Light Ring Puzzle", types: ["Korriban", "Tombs"] },
   { name: "Redeem Ajunta Pall's Spirit", types: ["Korriban", "Tombs", "Redeem"] },
   { name: "Return Sasha to Dantooine", types: ["Party", "Zaalbar"] },
-  { name: "Romance Bastila", types: ["Party", "Gender"] },
+  { name: "Kiss Bastila", types: ["Party", "Gender"] },
   { name: "Fully Repair HK-47", types: ["Party", "HK"] },
   { name: "Fully Upgraded Zaalbar's Bowcaster", types: ["Zaalbar", "Upgrade"] },
   { name: "One of each Creature Loot", types: ["Creature", "Kashyyyk", "Tatooine"] },
