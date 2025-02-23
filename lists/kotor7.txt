@@ -26,7 +26,7 @@ bingoList[2] = [
   { name: "Help with Lyn Sekla's Audition", types: ["Taris"] },
 ];
 bingoList[3] = [
-  { name: "Tell Dia Her Bounty Is Lifted", types: ["Taris", "Bounty"] },
+  { name: "Tell Dia Her Bounty is Lifted", types: ["Taris", "Bounty"] },
   { name: "Fully Upgraded Republic Mod Armor", types: ["Upgrade"] },
   { name: "Fully Upgraded Echani Fiber Armor", types: ["Upgrade"] },
   { name: "25 Net Stealth Skill", types: ["Character"] },
@@ -103,7 +103,7 @@ bingoList[9] = [
   { name: "Kill Kel Algwinn", types: ["Korriban"] }, 
   { name: "Get Banned From Manaan", types: ["Banned", "Manaan"] }, 
   { name: "Light or Dark Side Mastery", types: ["Alignment", "Mastery", "FP"] },
-  { name: "One Droid with Upgrade Class 3", types: ["HK", "T3"] },
+  { name: "A Droid with Upgrade Class 3", types: ["HK", "T3"] },
   { name: "Kill Belaya", types: ["Belaya", "Juhani", "Party"] },  
   { name: "Master Toughness and Master Conditioning", types: ["Character"] }, 
   { name: "Strand Zaalbar on Kashyyyk", types: ["Kashyyyk", "Zaalbar", "Party", "Chieftain"] },
@@ -158,8 +158,8 @@ bingoList[13] = [
   { name: "5 Different Visors", types: ["Visors", "Geno"] },
 ];
 bingoList[14] = [
-  { name: "All Three Force Immunity Feats", types: ["Character", "Immunity"] },  
-  { name: "Three Third-Tier Force Powers", types: ["Character"] },
+  { name: "All 3 Force Immunity Feats", types: ["Character", "Immunity"] },  
+  { name: "3 Third-Tier Force Powers", types: ["Character"] },
   { name: "Kill Lashowe, Mekel, and Shaardan", types: ["Korriban", "Redeem", "Tombs"] },
   { name: "Token From Tortured Selkath", types: ["Manaan"] }, 
   { name: "Obtain 7 Complete Area Maps", types: ["Maps"] },
@@ -245,7 +245,7 @@ bingoList[21] = [
   { name: "Use T3 to Clear the Prison Block", types: ["Leviathan", "T3"] },
   { name: "Use HK to Clear the Prison Block", types: ["Leviathan", "HK"] },
   { name: "Loot from Davik, Calo, Bandon, and Saul", types: ["Leviathan", "Bosses"] },
-  { name: "Complete All 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },
+  { name: "Complete 11 Bounty Quests", types: ["QuestNum", "Geno", "Bounty", "Duel"] },
   { name: "Kill All 7 Trandoshan Smugglers", types: ["Mika", "StarMaps", "Thermals"] }, 
   { name: "The One's Vibroswords", types: ["StarMaps", "Rancor"] },
   { name: "Keeper Orsaa's Ancient Tome", types: ["StarMaps", "Rancor"] },
